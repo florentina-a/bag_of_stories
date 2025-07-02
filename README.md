@@ -8,7 +8,7 @@ Luxembourg Centre for Contemporary and Digital History (C2DH), University of Lux
 ## Setup Instructions
 The code was created with Visual Studio Code (VSCode), GitHub Copilot support and Jupyter extension, under Windows 11.
 To be run in the Terminal for setting up the virtual environment in the root folder of the project.
-
+````
 1. Create and activate a virtual environment (Windows):
     ```
     python -m venv bag_of_stories_env
@@ -27,3 +27,8 @@ To be run in the Terminal for setting up the virtual environment in the root fol
 
 4. Open the notebooks and select the `bag_of_stories_env` kernel.
 ````
+
+## Datasets and related material
+1. Project Gutenberg, "Household Stories by the Brothers Grimm" (https://www.gutenberg.org/ebooks/19068).
+2. Selection based on "Grimms' fairy tales / The most beautiful stories of Grimm" - 21.06.2025 (https://www.grimmstories.com/).
+
