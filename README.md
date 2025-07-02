@@ -29,7 +29,7 @@ To be run in the Terminal for setting up the virtual environment in the root fol
 ````
 
 ## Code
-1. Pre-processing: subtopic detection and story segmentation using TextTiling (nltk, TextTilingTokenizer)
+1. Pre-processing: subtopic detection and story segmentation using TextTiling (nltk, TextTilingTokenizer).
 2. Jensen-Shannon distance (scipy, jensenshannon) and divergence for adjacent segments and segment-previous context computation with: 
 - fixed-size story segmentation;
 - TextTiling segmentation;
