@@ -1,5 +1,5 @@
 # Bag of stories
-Code and data for analysing human and AI-generated stories. 
+Code and data for analysing surprisal and predictability in human and AI-generated stories. 
 
 ## Contributor
 Florentina Armaselu  
@@ -27,6 +27,13 @@ To be run in the Terminal for setting up the virtual environment in the root fol
 
 4. Open the notebooks and select the `bag_of_stories_env` kernel.
 ````
+
+## Code
+1. Pre-processing: subtopic detection and story segmentation using TextTiling (nltk, TextTilingTokenizer)
+2. Jensen-Shannon distance (scipy, jensenshannon) and divergence for adjacent segments and segment-previous context computation with: 
+- fixed-size story segmentation;
+- TextTiling segmentation;
+- LLM narrative episode detection. 
 
 ## Datasets and related material
 1. Project Gutenberg, "Household Stories by the Brothers Grimm" (https://www.gutenberg.org/ebooks/19068).
