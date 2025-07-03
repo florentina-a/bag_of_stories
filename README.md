@@ -1,7 +1,7 @@
 # Bag of stories
 Code and data for analysing surprisal and predictability in human and AI-generated stories. 
 
-## Contributor
+## Author
 Florentina Armaselu  
 Luxembourg Centre for Contemporary and Digital History (C2DH), University of Luxembourg
 
