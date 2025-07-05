@@ -39,3 +39,6 @@ To be run in the Terminal for setting up the virtual environment in the root fol
 1. Project Gutenberg, "Household Stories by the Brothers Grimm" (https://www.gutenberg.org/ebooks/19068).
 2. Selection based on "Grimms' fairy tales / The most beautiful stories of Grimm" - 21.06.2025 (https://www.grimmstories.com/).
 
+## Results
+Results are saved by analysis method. Optionally, intermediate results may also be saved in a dedicated folder.
+
