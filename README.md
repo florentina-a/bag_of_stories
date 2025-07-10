@@ -36,8 +36,14 @@ To be run in the Terminal for setting up the virtual environment in the root fol
 - LLM narrative episode detection. 
 
 ## Datasets and related material
-1. Project Gutenberg, "Household Stories by the Brothers Grimm" (https://www.gutenberg.org/ebooks/19068).
-2. Selection based on "Grimms' fairy tales / The most beautiful stories of Grimm" - 21.06.2025 (https://www.grimmstories.com/).
+1. Popular Grimm stories
+1.1. Project Gutenberg, "Household Stories by the Brothers Grimm" (https://www.gutenberg.org/ebooks/19068).
+1.2. Selection based on "Grimms' fairy tales / The most beautiful stories of Grimm" - 21.06.2025 (https://www.grimmstories.com/).
+2. Forgotten Grimm stories
+2.1. English editions (1823, 1826, 1853, vol.1 and 2) mentioned in Ashliman's list (2012-2023) "Grimms' Fairy Tales in English" (https://sites.pitt.edu/~dash/grimm-engl.html).
+2.2. Selection based on Rochon's (2016) "Les contes oubliés des frères Grimm" (https://uhearst.c
+a/app/uploads/2023/05/les-contes-oublies-des-freres-grimm.pdf) and Zipes' (2012) “Ihe Forgotten Tales ofthe Brothers Grimm” (https://pub
+licdomainreview.org/essay/the-forgotten-tales-of-the-brothers-grimm/). 
 
 ## Methods
 1. Jensen-Shannon Divergence (JSD).
