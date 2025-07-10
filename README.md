@@ -41,9 +41,7 @@ To be run in the Terminal for setting up the virtual environment in the root fol
 - Selection based on "Grimms' fairy tales / The most beautiful stories of Grimm" - 21.06.2025 (https://www.grimmstories.com/).
 2. Forgotten Grimm stories
 - English editions (1823, 1826, 1853, vol.1 and 2) mentioned in Ashliman's list (2012-2023) "Grimms' Fairy Tales in English" (https://sites.pitt.edu/~dash/grimm-engl.html).
-- Selection based on Rochon's (2016) "Les contes oubliés des frères Grimm" (https://uhearst.c
-a/app/uploads/2023/05/les-contes-oublies-des-freres-grimm.pdf) and Zipes' (2012) “Ihe Forgotten Tales ofthe Brothers Grimm” (https://pub
-licdomainreview.org/essay/the-forgotten-tales-of-the-brothers-grimm/). 
+- Selection based on Rochon's (2016) "Les contes oubliés des frères Grimm" (https://uhearst.ca/app/uploads/2023/05/les-contes-oublies-des-freres-grimm.pdf) and Zipes' (2012) “Ihe Forgotten Tales ofthe Brothers Grimm” (https://publicdomainreview.org/essay/the-forgotten-tales-of-the-brothers-grimm/). 
 
 ## Methods
 1. Jensen-Shannon Divergence (JSD).
