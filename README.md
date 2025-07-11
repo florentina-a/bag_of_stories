@@ -30,7 +30,7 @@ To be run in the Terminal for setting up the virtual environment in the root fol
 
 ## Code
 1. Pre-processing: subtopic detection and story segmentation using TextTiling (nltk, TextTilingTokenizer).
-2. Jensen-Shannon distance and Kullback-Leibler divergence (scipy: jensenshannon, entropy) for adjacent segments and segment-previous context computation with: 
+2. Jensen-Shannon distance, Kullback-Leibler divergence (scipy: jensenshannon, entropy), and segment similarity (sentence-transformers) for adjacent segments and segment-previous context computation with: 
 - fixed-size story segmentation;
 - TextTiling segmentation;
 - LLM narrative episode detection. 
@@ -46,6 +46,7 @@ To be run in the Terminal for setting up the virtual environment in the root fol
 ## Methods
 1. Jensen-Shannon Divergence (JSD).
 2. Kullback-Leibler Divergence (KLD).
+3. Cosine segment similarity (SGS).
 
 ## Results
 Results are saved by analysis method. Optionally, intermediate results may also be saved in a dedicated folder.
