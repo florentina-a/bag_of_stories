@@ -29,11 +29,10 @@ To be run in the Terminal for setting up the virtual environment in the root fol
 ````
 
 ## Code
-1. Pre-processing: subtopic detection and story segmentation using TextTiling (nltk, TextTilingTokenizer).
-2. Jensen-Shannon distance, Kullback-Leibler divergence (scipy: jensenshannon, entropy), and segment similarity (sentence-transformers) for adjacent segments and segment-previous context computation with: 
-- fixed-size story segmentation;
-- TextTiling segmentation;
-- LLM narrative episode detection. 
+1. Pre-processing: subtopic detection, story segmentation using TextTiling (nltk, TextTilingTokenizer) and AI story generation.
+2. Processing: Jensen-Shannon distance, Kullback-Leibler divergence (scipy: jensenshannon, entropy), and segment similarity (sentence-transformers) for adjacent segments and segment-previous context computation with: 
+- equal-length story segmentation;
+- TextTiling segmentation. 
 
 ## Datasets and related material
 1. Popular Grimm stories
@@ -42,6 +41,7 @@ To be run in the Terminal for setting up the virtual environment in the root fol
 2. Forgotten Grimm stories
 - English editions (1823, 1826, 1853, vol.1 and 2) mentioned in Ashliman's list (2012-2023) "Grimms' Fairy Tales in English" (https://sites.pitt.edu/~dash/grimm-engl.html).
 - Selection based on Rochon's (2016) "Les contes oubliés des frères Grimm" (https://uhearst.ca/app/uploads/2023/05/les-contes-oublies-des-freres-grimm.pdf) and Zipes' (2012) “Ihe Forgotten Tales ofthe Brothers Grimm” (https://publicdomainreview.org/essay/the-forgotten-tales-of-the-brothers-grimm/). 
+3. AI-generated stories based on an opening fragment extracted from human stories, either via equal-length segmentation or TextTiling segmentation. 
 
 ## Methods
 1. Jensen-Shannon Divergence (JSD).

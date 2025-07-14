@@ -1,0 +1,759 @@
+Segment check: Segment Similarity (SGS): story type: ai-gen; story start: tt_st; SGS type: adjacent; segmentation method: text-tiling
+----------------------------------------
+Processing file: 01_grimm_pg19068_rumpelstiltskin_tt_20250710_110156_tt_gen_mistral-7b-instruct-v0.2.Q4_K_M_20250713_191246_tt_20250714_002423.txt
+----------------------------------------
+---- Segment 0: There was once a miller who was poor, but he had one beautiful daughter. It happened one day that he came to speak with the king, and, to give himself consequence, he told him that he had a daughter who could spin gold out of straw. The king said to the miller,
+---- Segment 1: "That is an art that pleases me well; if thy daughter is as clever as you say, bring her to my castle to-morrow, that I may put her to the proof."
+
+When the girl was brought to him, he led her into a room that was quite full of straw, and gave her a wheel and spindle, and said,
+----------------------------------------
+---- Segment 1: "That is an art that pleases me well; if thy daughter is as clever as you say, bring her to my castle to-morrow, that I may put her to the proof."
+
+When the girl was brought to him, he led her into a room that was quite full of straw, and gave her a wheel and spindle, and said,
+---- Segment 2: "Now set to work, and if by the early morning thou hast not spun this straw to gold thou shalt die." And he shut the door himself, and left her there alone. The miller's daughter was frightened, but she remembered what her father had told her when she was a little child, about the fairy who would help her if she called upon him. She therefore began to cry out three times, "Rumpelstiltskin, Rumpelstiltskin, art thou here?"
+
+The dwarf, who was sitting in a corner twirling his thumbs, and had heard all, appeared at once, and offered to help her if she would give him her child, when she should have it. She consented, and he spun the straw into gold, and by the morning it was all done.
+----------------------------------------
+---- Segment 2: "Now set to work, and if by the early morning thou hast not spun this straw to gold thou shalt die." And he shut the door himself, and left her there alone. The miller's daughter was frightened, but she remembered what her father had told her when she was a little child, about the fairy who would help her if she called upon him. She therefore began to cry out three times, "Rumpelstiltskin, Rumpelstiltskin, art thou here?"
+
+The dwarf, who was sitting in a corner twirling his thumbs, and had heard all, appeared at once, and offered to help her if she would give him her child, when she should have it. She consented, and he spun the straw into gold, and by the morning it was all done.
+---- Segment 3: The king was delighted, and promised to reward her richly, but the miller's daughter would have none of his gifts. She demanded to be given her child, and he was obliged to grant her request.
+
+But Rumpelstiltskin, who was a very angry dwarf, swore that he would have his revenge, and left the castle in a rage, muttering to himself,
+
+"One of these days, thou shalt repent it! One of these days, thou shalt repent it!"
+
+Rumpelstiltskin's Revenge
+
+Days turned into weeks, and the miller's daughter lived a contented life with her child. But the memory of Rumpelstiltskin's threat weighed heavily on her mind. She knew that the dwarf would return one day to claim his due.
+----------------------------------------
+---- Segment 3: The king was delighted, and promised to reward her richly, but the miller's daughter would have none of his gifts. She demanded to be given her child, and he was obliged to grant her request.
+
+But Rumpelstiltskin, who was a very angry dwarf, swore that he would have his revenge, and left the castle in a rage, muttering to himself,
+
+"One of these days, thou shalt repent it! One of these days, thou shalt repent it!"
+
+Rumpelstiltskin's Revenge
+
+Days turned into weeks, and the miller's daughter lived a contented life with her child. But the memory of Rumpelstiltskin's threat weighed heavily on her mind. She knew that the dwarf would return one day to claim his due.
+---- Segment 4: One evening, as she was playing with her child, she heard a strange knocking on the door. She peered through the window and saw Rumpelstiltskin standing in the courtyard, his face twisted with rage.
+
+"You thought you could trick me, did you?" he snarled, "I will have my revenge! You will give me your firstborn child, or I will take it by force!"
+
+The miller's daughter was terrified. She knew that she could not face Rumpelstiltskin alone. She quickly gathered her things and fled to the forest, taking her child with her.
+----------------------------------------
+---- Segment 4: One evening, as she was playing with her child, she heard a strange knocking on the door. She peered through the window and saw Rumpelstiltskin standing in the courtyard, his face twisted with rage.
+
+"You thought you could trick me, did you?" he snarled, "I will have my revenge! You will give me your firstborn child, or I will take it by force!"
+
+The miller's daughter was terrified. She knew that she could not face Rumpelstiltskin alone. She quickly gathered her things and fled to the forest, taking her child with her.
+---- Segment 5: She lived in the forest for many years, hiding from Rumpelstiltskin and raising her child in secrecy. But the dwarf was relentless. He searched far and wide, and eventually tracked them down.
+
+The miller's daughter was captured, and Rumpelstiltskin took her child away from her. He raised the child as his own, and the miller's daughter was left to lament her fate.
+
+But even in her despair, she never forgot the promise she had made to God, to raise her child in His name. She prayed every day for his safekeeping, and eventually, her prayers were answered.
+----------------------------------------
+---- Segment 5: She lived in the forest for many years, hiding from Rumpelstiltskin and raising her child in secrecy. But the dwarf was relentless. He searched far and wide, and eventually tracked them down.
+
+The miller's daughter was captured, and Rumpelstiltskin took her child away from her. He raised the child as his own, and the miller's daughter was left to lament her fate.
+
+But even in her despair, she never forgot the promise she had made to God, to raise her child in His name. She prayed every day for his safekeeping, and eventually, her prayers were answered.
+---- Segment 6: One day, as Rumpelstiltskin was boasting about his power to other fairies, he was overheard by a wise old crone. She told the miller's daughter about a way to outwit Rumpelstiltskin and reclaim her child.
+
+With the crone's help, the miller's daughter devised a plan. She would offer Rumpelstiltskin a deal: in exchange for three magical apples, she would give him her firstborn son. But the apples were enchanted, and when Rumpelstiltskin ate them, he would forget all about the miller's daughter and her child.
+----------------------------------------
+---- Segment 6: One day, as Rumpelstiltskin was boasting about his power to other fairies, he was overheard by a wise old crone. She told the miller's daughter about a way to outwit Rumpelstiltskin and reclaim her child.
+
+With the crone's help, the miller's daughter devised a plan. She would offer Rumpelstiltskin a deal: in exchange for three magical apples, she would give him her firstborn son. But the apples were enchanted, and when Rumpelstiltskin ate them, he would forget all about the miller's daughter and her child.
+---- Segment 7: Rumpelstiltskin agreed to the deal, and the miller's daughter watched as he ate the apples, his memory of her fading away like smoke in the wind. She was reunited with her child, and they lived happily ever after.
+
+But Rumpelstiltskin, in his anger and confusion, could not forget the taste of the apples. He wandered the forest, searching for them, and was never heard from again. The miller's daughter and her child were finally free from the dwarf's wrath.
+----------------------------------------
+Processing file: 02_grimm_pg19068_rapunzel_tt_20250710_110157_tt_gen_mistral-7b-instruct-v0.2.Q4_K_M_20250713_191246_tt_20250714_002423.txt
+----------------------------------------
+---- Segment 0: There once lived a man and his wife, who had long wished for a child, but in vain. Now there was at the back of their house a little window which overlooked a beautiful garden full of the finest vegetables and flowers; but there was a high wall all round it, and no one ventured into it, for it belonged to a witch of great might, and of whom all the world was afraid. One day that the wife was standing at the window, and looking into the garden, she saw a bed filled with the finest rampion; and it looked so fresh and green that she began to wish for some; and at length she longed for it greatly. This went on for days, and as she knew she could not get the rampion, she pined away, and grew pale and miserable. Then the man was uneasy, and asked, "What is the matter, dear wife?" "Ah!" replied she, "I am dying for lack of the rampion in the garden of the witch."
+---- Segment 1: At length the man could no longer endure to see his wife in such pain, and taking a ladder, he ascended to the window, and cut off all the rampion he could reach, and brought it to his wife. But as he was still on the ladder, he was seized by the witch, who came suddenly up. She was furious at having her garden robbed, and threatened to put out his eyes with her pinders if he did not give her the child which his wife should bear. The man, terrified, promised to give her the child as soon as it was born. But the wife, on hearing this, was beside herself with grief, and did not eat or drink; and the child, when it was born, was weak and sickly.
+
+Now the witch came to claim the child, but when she saw it she was filled with rage, and threatened to take both the child and the mother away with her, and to put them into a tower, which she had far off in a lonely place. The man begged and prayed her to leave his wife and child with him; but the witch would not listen, and taking the child in her arms, she went away, carrying the little girl off with her to the tower. And there she left her in the highest room, which had no window, and shut her up in it, and let down to her every day a ladder, on which she brought her food.
+----------------------------------------
+---- Segment 1: At length the man could no longer endure to see his wife in such pain, and taking a ladder, he ascended to the window, and cut off all the rampion he could reach, and brought it to his wife. But as he was still on the ladder, he was seized by the witch, who came suddenly up. She was furious at having her garden robbed, and threatened to put out his eyes with her pinders if he did not give her the child which his wife should bear. The man, terrified, promised to give her the child as soon as it was born. But the wife, on hearing this, was beside herself with grief, and did not eat or drink; and the child, when it was born, was weak and sickly.
+
+Now the witch came to claim the child, but when she saw it she was filled with rage, and threatened to take both the child and the mother away with her, and to put them into a tower, which she had far off in a lonely place. The man begged and prayed her to leave his wife and child with him; but the witch would not listen, and taking the child in her arms, she went away, carrying the little girl off with her to the tower. And there she left her in the highest room, which had no window, and shut her up in it, and let down to her every day a ladder, on which she brought her food.
+---- Segment 2: But the girl grew up to be a beautiful and bright child, who was called Rapunzel. And when she was twelve years old, the witch came and told her that she would let down the ladder, and that she might go down with her if she would bring the witch two good things which she would name to her. The witch had a hag's heart, and asked for the eyes of the beautiful princess whom the king so much loved. But Rapunzel refused, and the witch became enraged, and left her alone again. And every day she brought her something new, and told her strange things, and amused her with tales of her own wild life.
+----------------------------------------
+---- Segment 2: But the girl grew up to be a beautiful and bright child, who was called Rapunzel. And when she was twelve years old, the witch came and told her that she would let down the ladder, and that she might go down with her if she would bring the witch two good things which she would name to her. The witch had a hag's heart, and asked for the eyes of the beautiful princess whom the king so much loved. But Rapunzel refused, and the witch became enraged, and left her alone again. And every day she brought her something new, and told her strange things, and amused her with tales of her own wild life.
+---- Segment 3: Several years passed, and it happened that the prince, who rode out every day to hunt in the wood, came near the tower where Rapunzel lived. When he saw her beautiful hair, which hung down from the window, he cried out, "Who is that fair lady, whose golden tresses hang down like a golden waterfall from the window?" The witch heard this, and told Rapunzel that the young prince was asking for her. And when the prince came again, she let down the ladder, and Rapunzel descended, and they went off together.
+----------------------------------------
+---- Segment 3: Several years passed, and it happened that the prince, who rode out every day to hunt in the wood, came near the tower where Rapunzel lived. When he saw her beautiful hair, which hung down from the window, he cried out, "Who is that fair lady, whose golden tresses hang down like a golden waterfall from the window?" The witch heard this, and told Rapunzel that the young prince was asking for her. And when the prince came again, she let down the ladder, and Rapunzel descended, and they went off together.
+---- Segment 4: They traveled far and wide, and the prince loved Rapunzel more and more, and they lived happily ever after.
+
+One day, as they were traveling, they came across a small village where the people were in great distress. The crops had failed, and there was no food or water to be found. The villagers welcomed the prince and Rapunzel with open arms, grateful for any help they could receive.
+----------------------------------------
+---- Segment 4: They traveled far and wide, and the prince loved Rapunzel more and more, and they lived happily ever after.
+
+One day, as they were traveling, they came across a small village where the people were in great distress. The crops had failed, and there was no food or water to be found. The villagers welcomed the prince and Rapunzel with open arms, grateful for any help they could receive.
+---- Segment 5: Rapunzel, with her kind heart, suggested that they search for water in the nearby forest. She remembered an old legend that there was a hidden spring deep within the woods, and she was determined to find it. The prince agreed, and they set out on their search.
+
+They followed the winding paths of the forest, climbing steep hills and descending into valleys. The sun was setting, and they were beginning to lose hope when they finally heard the sound of running water. They rushed towards the sound, and there, nestled among the trees, was the hidden spring.
+
+The villagers were overjoyed when the prince and Rapunzel returned with water for them. They thanked the young couple profusely, and the prince and Rapunzel stayed in the village for several days, helping to distribute the water and tend to the sick and injured.
+----------------------------------------
+---- Segment 5: Rapunzel, with her kind heart, suggested that they search for water in the nearby forest. She remembered an old legend that there was a hidden spring deep within the woods, and she was determined to find it. The prince agreed, and they set out on their search.
+
+They followed the winding paths of the forest, climbing steep hills and descending into valleys. The sun was setting, and they were beginning to lose hope when they finally heard the sound of running water. They rushed towards the sound, and there, nestled among the trees, was the hidden spring.
+
+The villagers were overjoyed when the prince and Rapunzel returned with water for them. They thanked the young couple profusely, and the prince and Rapunzel stayed in the village for several days, helping to distribute the water and tend to the sick and injured.
+---- Segment 6: The people of the village were forever grateful to the prince and Rapunzel for their kindness and generosity. They welcomed them into their homes, and the prince and Rapunzel were touched by the warmth and hospitality they received.
+
+As they prepared to leave, the prince and Rapunzel knew that they had found something truly special in the village, and they vowed to return one day to help the people once again. And so, they continued on their journey, their hearts filled with love and the knowledge that even in the darkest of times, there is always hope and light to be found.
+----------------------------------------
+Processing file: 03_grimm_pg19068_aschenputtel_tt_20250710_110157_tt_gen_mistral-7b-instruct-v0.2.Q4_K_M_20250713_191246_tt_20250714_002423.txt
+----------------------------------------
+---- Segment 0: There was once a rich man whose wife lay sick, and when she felt her end drawing near she called to her only daughter to come near her bed, and said,
+
+"Dear child, be pious and good, and God will always take care of you, and I will look down upon you from heaven, and will be with you."
+---- Segment 1: And then she closed her eyes and expired. The maiden went every day to her mother's grave and wept, and was always pious and good. When the winter came the snow covered the grave with a white covering, and when the sun came in the early spring and melted it away, the man took to himself another wife. She was beautiful and young, and when the girl saw her she was vexed, for she knew her father's heart was given to her, and she could not make him forget her mother.
+
+One day the father said to the new wife, "My dear child, I wish to go and visit my kinsmen, who live in a distant land. Take care of my house and my child, and give her the best you have, and if she does not please you, I will take her with me."
+----------------------------------------
+---- Segment 1: And then she closed her eyes and expired. The maiden went every day to her mother's grave and wept, and was always pious and good. When the winter came the snow covered the grave with a white covering, and when the sun came in the early spring and melted it away, the man took to himself another wife. She was beautiful and young, and when the girl saw her she was vexed, for she knew her father's heart was given to her, and she could not make him forget her mother.
+
+One day the father said to the new wife, "My dear child, I wish to go and visit my kinsmen, who live in a distant land. Take care of my house and my child, and give her the best you have, and if she does not please you, I will take her with me."
+---- Segment 2: "Yes, father," said the stepmother, "I will do that, but I cannot promise that I shall love her."
+
+The girl was happy at first, for she had fine clothes, and her stepmother gave her the best food, but when a long time passed, and she saw that her stepmother's heart was not softened, she began to feel that she was not loved.
+----------------------------------------
+---- Segment 2: "Yes, father," said the stepmother, "I will do that, but I cannot promise that I shall love her."
+
+The girl was happy at first, for she had fine clothes, and her stepmother gave her the best food, but when a long time passed, and she saw that her stepmother's heart was not softened, she began to feel that she was not loved.
+---- Segment 3: One day when she had been crying, her stepmother came to her and asked her why her eyes were red.
+
+"I have a pain in my heart," replied the girl.
+
+"Ah, child," said the wicked woman, "that is easily cured, come with me," and she led her into a chamber which was filled with beautiful flowers, and she said to her, "Sit down here, and look at these roses, they are the most beautiful in the world, and you shall have a basket full, but you must not touch them, or pluck them, or you will be pricked by their thorns."
+
+The girl sat down by the window and gazed at the roses, and they seemed to be very beautiful, but she could not help thinking that they were like her stepmother, beautiful on the outside, but within bitter and cruel. She longed to have the power to gather them up and to take them to her mother's grave, and there to lay them on it, but she was afraid of their thorns.
+----------------------------------------
+---- Segment 3: One day when she had been crying, her stepmother came to her and asked her why her eyes were red.
+
+"I have a pain in my heart," replied the girl.
+
+"Ah, child," said the wicked woman, "that is easily cured, come with me," and she led her into a chamber which was filled with beautiful flowers, and she said to her, "Sit down here, and look at these roses, they are the most beautiful in the world, and you shall have a basket full, but you must not touch them, or pluck them, or you will be pricked by their thorns."
+
+The girl sat down by the window and gazed at the roses, and they seemed to be very beautiful, but she could not help thinking that they were like her stepmother, beautiful on the outside, but within bitter and cruel. She longed to have the power to gather them up and to take them to her mother's grave, and there to lay them on it, but she was afraid of their thorns.
+---- Segment 4: One day, as she was sitting there, her stepmother entered the room, and said to her, "I have a great favour to ask you, child, my eldest son is coming home, and he will be here in a fortnight, and I wish you to make him some shirts. He is a handsome lad, and you will like him."
+
+The girl felt a pang of jealousy, and thought that her stepmother wanted to tempt her, but she answered, "I will do my best, stepmother," and went and made the shirts, and when they were ready she brought them to her stepmother.
+----------------------------------------
+---- Segment 4: One day, as she was sitting there, her stepmother entered the room, and said to her, "I have a great favour to ask you, child, my eldest son is coming home, and he will be here in a fortnight, and I wish you to make him some shirts. He is a handsome lad, and you will like him."
+
+The girl felt a pang of jealousy, and thought that her stepmother wanted to tempt her, but she answered, "I will do my best, stepmother," and went and made the shirts, and when they were ready she brought them to her stepmother.
+---- Segment 5: "Now," said the wicked woman, "I have a harder task for you. You must go into the forest and cut down a beautiful tree, and bring back its branches, that I may make a couch for my son out of them."
+----------------------------------------
+---- Segment 5: "Now," said the wicked woman, "I have a harder task for you. You must go into the forest and cut down a beautiful tree, and bring back its branches, that I may make a couch for my son out of them."
+---- Segment 6: The girl knew that this would be a difficult task, and she was afraid, but she determined to do it. She took with her an axe, and set off into the forest, and she went on until she came to a large oak tree, and it was so grand and beautiful that she stood still and gazed at it.
+
+"O mighty tree," she said, "can I cut thee down and destroy thee? Thou hast stood here so long, and seen so many generations come and go, and I, a poor girl, and a stranger to thee, must cut thee down to please a heartless woman."
+
+The tree answered her, "Fear not, thou shalt not destroy me, for I am a friend to thee, and will help thee. Strike with thy axe on this side, and I will bend low, and no harm shall come to thee."
+----------------------------------------
+---- Segment 6: The girl knew that this would be a difficult task, and she was afraid, but she determined to do it. She took with her an axe, and set off into the forest, and she went on until she came to a large oak tree, and it was so grand and beautiful that she stood still and gazed at it.
+
+"O mighty tree," she said, "can I cut thee down and destroy thee? Thou hast stood here so long, and seen so many generations come and go, and I, a poor girl, and a stranger to thee, must cut thee down to please a heartless woman."
+
+The tree answered her, "Fear not, thou shalt not destroy me, for I am a friend to thee, and will help thee. Strike with thy axe on this side, and I will bend low, and no harm shall come to thee."
+---- Segment 7: The girl did as the tree had told her, and it bent low, and she was able to cut it down without injury. She then took the branches home, and her stepmother was pleased, and the prince was delighted with the couch which was made for him out of them.
+
+But when the prince came home, he was surprised to see a beautiful maiden at his mother's table, and he was attracted to her, and he asked her name, and she told him that she was called Aschenputtel. And when he learned that she had made the shirts for him, and had brought the branches of the tree, he knew that she was the one he had loved, and he asked her to be his wife, and she consented.
+----------------------------------------
+---- Segment 7: The girl did as the tree had told her, and it bent low, and she was able to cut it down without injury. She then took the branches home, and her stepmother was pleased, and the prince was delighted with the couch which was made for him out of them.
+
+But when the prince came home, he was surprised to see a beautiful maiden at his mother's table, and he was attracted to her, and he asked her name, and she told him that she was called Aschenputtel. And when he learned that she had made the shirts for him, and had brought the branches of the tree, he knew that she was the one he had loved, and he asked her to be his wife, and she consented.
+---- Segment 8: Then the wicked stepmother was filled with rage and jealousy, and she said to Aschenputtel, "If thou wilt be my husband's wife, thou must first prove that thou art worthy of him, and that thou canst do all the duties of a wife."
+
+And she set before her a number of tasks, and Aschenputtel did them all, and she was then proved to be worthy of the prince, and they were married, and the wicked stepmother was put away, and the girl's mother appeared to her in a vision, and blessed her, and the girl lived happily ever after.
+----------------------------------------
+---- Segment 8: Then the wicked stepmother was filled with rage and jealousy, and she said to Aschenputtel, "If thou wilt be my husband's wife, thou must first prove that thou art worthy of him, and that thou canst do all the duties of a wife."
+
+And she set before her a number of tasks, and Aschenputtel did them all, and she was then proved to be worthy of the prince, and they were married, and the wicked stepmother was put away, and the girl's mother appeared to her in a vision, and blessed her, and the girl lived happily ever after.
+---- Segment 9: The girl, filled with determination, ventured deep into the forest, armed with an axe. She came across a mighty oak tree, its branches reaching high, its trunk strong and sturdy. She approached it hesitantly, speaking to it in awe. The tree responded, its voice deep and resonant. It assured her that she could cut it down without harm, for it would bend low as she struck. Trusting the tree's words, she did as it advised. The tree bent low, and she was able to chop it down, its branches falling gently at her feet. With newfound strength, she returned to her stepmother, presenting the tree branches as proof of her accomplishment. The prince, upon seeing her, was captivated by her bravery and beauty, and proposed to her. Aschenputtel accepted, and they were married, banishing the wicked stepmother from their lives. Her mother, appearing in a dream, blessed her daughter, and Aschenputtel lived happily ever after.
+----------------------------------------
+Processing file: 04_grimm_pg19068_little_red-cap_tt_20250710_110157_tt_gen_mistral-7b-instruct-v0.2.Q4_K_M_20250713_191246_tt_20250714_002423.txt
+----------------------------------------
+---- Segment 0: There was once a sweet little maid, much beloved by everybody, but most of all by her grandmother, who never knew how to make enough of her. Once she sent her a little cap of red velvet, and as it was very becoming to her, and she never wore anything else, people called her Little Red-cap. One day her mother said to her, "My dear child, I must go into the town to-morrow to market. I shall take you with me, and you shall help me carry home what we buy; but till then you must not go out into the wood. A wicked wolf, who lives there, has sworn to eat you up."
+---- Segment 1: The sun shone brightly in the sky when Little Red-cap's mother set off early next morning. Little Red-cap, who was a very obedient child, promised not to go into the wood. But she was a curious little girl, and as she went on gathering flowers near her house, she heard the birds singing such a delicious song in the depth of the wood, that she could not help longing to go and see where they were. So she made up her mind to take a short cut through the wood, thinking she could soon get through it.
+----------------------------------------
+---- Segment 1: The sun shone brightly in the sky when Little Red-cap's mother set off early next morning. Little Red-cap, who was a very obedient child, promised not to go into the wood. But she was a curious little girl, and as she went on gathering flowers near her house, she heard the birds singing such a delicious song in the depth of the wood, that she could not help longing to go and see where they were. So she made up her mind to take a short cut through the wood, thinking she could soon get through it.
+---- Segment 2: "I must not stay long," thought she; "I will only go as far as that great grand oak tree, and then I will come back again." And off she went, with her cap of red velvet, her basket on her arm, and a small bundle of flowers in her hand. She had not gone far when she came across the wolf, who was lying in the path sunning himself.
+
+"Good day, dear child," said he in a great friendly tone; "what a beautiful cap you have on, and such a pretty basket; shall I not carry it for you?"
+
+Little Red-cap, who was an artless child, and did not suspect any harm, let the wolf take her basket on his back, and herself got up on him, thinking she could thus reach the other side of the wood more quickly. The wolf, however, carried her off to his den, and there he meant to eat her up.
+----------------------------------------
+---- Segment 2: "I must not stay long," thought she; "I will only go as far as that great grand oak tree, and then I will come back again." And off she went, with her cap of red velvet, her basket on her arm, and a small bundle of flowers in her hand. She had not gone far when she came across the wolf, who was lying in the path sunning himself.
+
+"Good day, dear child," said he in a great friendly tone; "what a beautiful cap you have on, and such a pretty basket; shall I not carry it for you?"
+
+Little Red-cap, who was an artless child, and did not suspect any harm, let the wolf take her basket on his back, and herself got up on him, thinking she could thus reach the other side of the wood more quickly. The wolf, however, carried her off to his den, and there he meant to eat her up.
+---- Segment 3: But just as he was about to swallow her, she pulled out her grand mother's distaff, which she had in her pocket, and with all her might she stuck it into the wolf's eyes. The wolf roared with pain, and let go of Little Red-cap. She ran away as fast as she could, and the wolf, not being able to see, did not follow her.
+
+Little Red-cap ran home as fast as she could, and when she arrived, she told her mother all about it, who was greatly alarmed, but much relieved to hear that her daughter was safe.
+----------------------------------------
+---- Segment 3: But just as he was about to swallow her, she pulled out her grand mother's distaff, which she had in her pocket, and with all her might she stuck it into the wolf's eyes. The wolf roared with pain, and let go of Little Red-cap. She ran away as fast as she could, and the wolf, not being able to see, did not follow her.
+
+Little Red-cap ran home as fast as she could, and when she arrived, she told her mother all about it, who was greatly alarmed, but much relieved to hear that her daughter was safe.
+---- Segment 4: "Now, my child," said she, "never again go into the wood without my permission."
+
+As she ran through the forest, her heart pounding in her chest, Little Red-cap couldn't help but wonder if she had truly escaped the wolf's grasp. She clutched her grandmother's distaff tightly, feeling its rough surface against her palm a comforting reminder of her narrow escape.
+----------------------------------------
+---- Segment 4: "Now, my child," said she, "never again go into the wood without my permission."
+
+As she ran through the forest, her heart pounding in her chest, Little Red-cap couldn't help but wonder if she had truly escaped the wolf's grasp. She clutched her grandmother's distaff tightly, feeling its rough surface against her palm a comforting reminder of her narrow escape.
+---- Segment 5: Just as she was about to break out in a relieved sigh, a twig snapped behind her. She whirled around, her eyes wide with fear. But it was only an old man, dressed in tattered robes, who stepped out from behind a tree, a gentle smile on his face.
+
+"Fear not, child," he said. "I mean you no harm. I saw the wolf follow you, and I came to help."
+
+Little Red-cap hesitated, unsure if she could trust this stranger. But the kindly expression on his face put her at ease, and she nodded gratefully.
+
+Together, they made their way back to the safety of her grandmother's cottage. As they approached, they saw her mother, who had heard the commotion and come outside, rushing towards them with a concerned look on her face.
+----------------------------------------
+---- Segment 5: Just as she was about to break out in a relieved sigh, a twig snapped behind her. She whirled around, her eyes wide with fear. But it was only an old man, dressed in tattered robes, who stepped out from behind a tree, a gentle smile on his face.
+
+"Fear not, child," he said. "I mean you no harm. I saw the wolf follow you, and I came to help."
+
+Little Red-cap hesitated, unsure if she could trust this stranger. But the kindly expression on his face put her at ease, and she nodded gratefully.
+
+Together, they made their way back to the safety of her grandmother's cottage. As they approached, they saw her mother, who had heard the commotion and come outside, rushing towards them with a concerned look on her face.
+---- Segment 6: "I'm so glad you're safe, my dear," she cried, wrapping her arms around Little Red-cap in a tight hug. "From now on, you must always ask my permission before going into the forest."
+
+Little Red-cap nodded, feeling grateful for the second chance she had been given. She knew that the forest held dangers she was not yet ready to face, and she promised herself to always listen to her mother's advice.
+
+As her mother tended to her wounds, the old man disappeared into the woods, leaving them with a renewed sense of safety and gratitude. Little Red-cap knew that she would always remember the kindness of the stranger and the importance of obeying her mother's wishes.
+----------------------------------------
+Processing file: 05_grimm_pg19068_the_sleeping_beauty_tt_20250710_110157_tt_gen_mistral-7b-instruct-v0.2.Q4_K_M_20250713_191246_tt_20250714_002423.txt
+----------------------------------------
+---- Segment 0: In times past there lived a king and queen, who said to each other every day of their lives, "Would that we had a child!" and yet they had none. But it happened once that when the queen was bathing, there came a frog out of the water, and he squatted on the ground, and said to her,
+
+"Thy wish shall be fulfilled; before a year has gone by, thou shalt bring a daughter into the world." And so it came to pass, that the queen was delivered of a beautiful girl-child, whom they called Briar-Rose. They rejoiced greatly, and the king said,
+---- Segment 1: "She shall live in the finest possible style; there shall not be wanting to her the costliest garments, nor the richest jewels."
+
+One day when Briar-Rose was fifteen years old, the whole court was celebrating her birthday. The palace was gay with flags and banners, and every room was filled with roses, the favorite flower of the princess. But there was one room, the labor- chamber, which was shut up, and no one knew what was there.
+----------------------------------------
+---- Segment 1: "She shall live in the finest possible style; there shall not be wanting to her the costliest garments, nor the richest jewels."
+
+One day when Briar-Rose was fifteen years old, the whole court was celebrating her birthday. The palace was gay with flags and banners, and every room was filled with roses, the favorite flower of the princess. But there was one room, the labor- chamber, which was shut up, and no one knew what was there.
+---- Segment 2: There, fast asleep on a bed of roses, lay the fair Briar-Rose. The evil fairy Carabosse, who had not been invited to the festivities, was filled with rage. She had sworn that the beautiful princess should never have the happiness of growing up. She had cast a spell upon the princess, that she should prick her finger on the spindle of a spinning wheel, and fall into a deep sleep, from which there was no waking.
+
+The wicked fairy was not idle. She transformed herself into an old hag and went into the palace, seeking the labor-room. Finding the door ajar, she crept in, and there, in the dim light, she saw the sleeping Briar-Rose.
+
+With a gleam of malicious pleasure in her eyes, she took up a spindle, which was lying there, and holding it above the princess, she whispered,
+
+"Prick, prick, O lovely Briar-Rose, prick, prick, with the spindle of doom!"
+
+As she spoke the words, the sharp point of the spindle touched the princess's finger, and in an instant she was enveloped in a deep sleep.
+
+The courtiers, who had been waiting for the princess, were at last disturbed by a sound from the labor-room. They hurried thither, and found the beautiful Briar-Rose asleep on the bed of roses. A deep sleep, from which there was no waking.
+
+The king and queen were inconsolable with grief, but they were not idle. They sent out searchers to find the wicked fairy Carabosse, and to seek a remedy for the spell that had been cast upon their daughter. They searched in far-off lands, but in vain.
+----------------------------------------
+---- Segment 2: There, fast asleep on a bed of roses, lay the fair Briar-Rose. The evil fairy Carabosse, who had not been invited to the festivities, was filled with rage. She had sworn that the beautiful princess should never have the happiness of growing up. She had cast a spell upon the princess, that she should prick her finger on the spindle of a spinning wheel, and fall into a deep sleep, from which there was no waking.
+
+The wicked fairy was not idle. She transformed herself into an old hag and went into the palace, seeking the labor-room. Finding the door ajar, she crept in, and there, in the dim light, she saw the sleeping Briar-Rose.
+
+With a gleam of malicious pleasure in her eyes, she took up a spindle, which was lying there, and holding it above the princess, she whispered,
+
+"Prick, prick, O lovely Briar-Rose, prick, prick, with the spindle of doom!"
+
+As she spoke the words, the sharp point of the spindle touched the princess's finger, and in an instant she was enveloped in a deep sleep.
+
+The courtiers, who had been waiting for the princess, were at last disturbed by a sound from the labor-room. They hurried thither, and found the beautiful Briar-Rose asleep on the bed of roses. A deep sleep, from which there was no waking.
+
+The king and queen were inconsolable with grief, but they were not idle. They sent out searchers to find the wicked fairy Carabosse, and to seek a remedy for the spell that had been cast upon their daughter. They searched in far-off lands, but in vain.
+---- Segment 3: At last, a good fairy, who had not been invited to the birthday festivities, came to their aid. She had heard of the misfortune that had befallen the princess, and she knew how to break the spell. She took the princess to a secluded castle deep in the forest, where she lived in peace, surrounded by enchanters and magicians.
+----------------------------------------
+---- Segment 3: At last, a good fairy, who had not been invited to the birthday festivities, came to their aid. She had heard of the misfortune that had befallen the princess, and she knew how to break the spell. She took the princess to a secluded castle deep in the forest, where she lived in peace, surrounded by enchanters and magicians.
+---- Segment 4: There, the princess, Briar-Rose, slept on, in a deep, dreamless sleep, until one day, a hundred years had passed, and a handsome prince, who had heard of the sleeping beauty, came to seek her hand in marriage. He found her in the castle, and when he kissed her, she awoke, and they were married, and they lived happily ever after.
+----------------------------------------
+Processing file: 06_grimm_pg19068_hansel_and_grethel_tt_20250710_110157_tt_gen_mistral-7b-instruct-v0.2.Q4_K_M_20250713_191246_tt_20250714_002423.txt
+----------------------------------------
+---- Segment 0: Near a great forest there lived a poor woodcutter and his wife, and his two children; the boy's name was Hansel and the girl's Grethel. They had very little to bite or to sup, and once, when there was great dearth in the land, the man could not even gain the daily bread. As he lay in bed one night thinking of this, and turning and tossing, he sighed heavily, and said to his wife, "I'll go early into the forest tomorrow, and there cut down some firewood, that at any rate we may have light and warmth in the evening."
+
+But his wife answered him, "I would rather we both went, for then we could bring home more at once."
+---- Segment 1: "Very well," said the man, "we'll go together then."
+
+So they rose early, and after they had kindled a fire on the hearth, and provided themselves with a basket for carrying home the wood, and provisions, and a water bottle, they set off towards the forest.
+
+The sun was hardly risen, and they had not gone far, when they met an old woman, who came towards them along the path. She was dressed in rags, and lean and shrivelled as if she had not tasted food for a long while. She begged them, with a voice sounding hoarse from hunger, to give her something to eat, but they had nothing to give, for they had brought only that which they needed for themselves. She then asked them to take her along with them to their cottage, but they could not do that, for they had no room for a stranger, and their wife would not have permitted it.
+
+"Ah," said the woman, "you leave me so, and perhaps you will remember me when you are well supplied with food yourselves. But woe to you, if it should happen to you as it has happened to me!"
+----------------------------------------
+---- Segment 1: "Very well," said the man, "we'll go together then."
+
+So they rose early, and after they had kindled a fire on the hearth, and provided themselves with a basket for carrying home the wood, and provisions, and a water bottle, they set off towards the forest.
+
+The sun was hardly risen, and they had not gone far, when they met an old woman, who came towards them along the path. She was dressed in rags, and lean and shrivelled as if she had not tasted food for a long while. She begged them, with a voice sounding hoarse from hunger, to give her something to eat, but they had nothing to give, for they had brought only that which they needed for themselves. She then asked them to take her along with them to their cottage, but they could not do that, for they had no room for a stranger, and their wife would not have permitted it.
+
+"Ah," said the woman, "you leave me so, and perhaps you will remember me when you are well supplied with food yourselves. But woe to you, if it should happen to you as it has happened to me!"
+---- Segment 2: With that she limped away from them on sticks, and they heard her voice grow fainter and fainter, until it was quite still.
+
+"Come on," said Hansel to his wife, and they went on through the forest, which grew denser and denser. At noon they reached a wonderful meadow, where Hansel's father had once told him there were sweetest apples in the world, and which the boy had longed to see. The meadow was enclosed by a great wall, and within it there were many beautiful trees with heavy-laden branches, full of glossy red apples. Hansel was so taken up with the sight, that he begged his parents to let him go into the garden and to fill his pocket with apples, for he wanted to take some home to his poor sick sister.
+----------------------------------------
+---- Segment 2: With that she limped away from them on sticks, and they heard her voice grow fainter and fainter, until it was quite still.
+
+"Come on," said Hansel to his wife, and they went on through the forest, which grew denser and denser. At noon they reached a wonderful meadow, where Hansel's father had once told him there were sweetest apples in the world, and which the boy had longed to see. The meadow was enclosed by a great wall, and within it there were many beautiful trees with heavy-laden branches, full of glossy red apples. Hansel was so taken up with the sight, that he begged his parents to let him go into the garden and to fill his pocket with apples, for he wanted to take some home to his poor sick sister.
+---- Segment 3: His parents consented, but they warned him that he must not eat any, but only take them home, for his mother had baked a fine cake, and when they had eaten and drunk, they would all sit down together in the evening and make merry.
+----------------------------------------
+---- Segment 3: His parents consented, but they warned him that he must not eat any, but only take them home, for his mother had baked a fine cake, and when they had eaten and drunk, they would all sit down together in the evening and make merry.
+---- Segment 4: Hansel promised to do this, and ran into the garden, where he soon had a full apron full of apples. But when he was about to run back again, he saw that the old woman, who had met them at the beginning of their journey, was sitting at the garden gate. "Ah, you have come back again," she said, "and have brought me something to eat, I am so glad. But first give me one apple, I will then tell you a secret, which will make you rich."
+----------------------------------------
+---- Segment 4: Hansel promised to do this, and ran into the garden, where he soon had a full apron full of apples. But when he was about to run back again, he saw that the old woman, who had met them at the beginning of their journey, was sitting at the garden gate. "Ah, you have come back again," she said, "and have brought me something to eat, I am so glad. But first give me one apple, I will then tell you a secret, which will make you rich."
+---- Segment 5: But Hansel thought, "The old woman is a witch, and she wants to deceive me," and he said, "I have only brought apples for my parents, but I will give you one if you promise to tell me the way back to my father's house."
+
+The old woman consented, and she showed them a roundabout way to their home, which they had never known before, and Hansel was thankful for her help, and went back to his parents.
+----------------------------------------
+---- Segment 5: But Hansel thought, "The old woman is a witch, and she wants to deceive me," and he said, "I have only brought apples for my parents, but I will give you one if you promise to tell me the way back to my father's house."
+
+The old woman consented, and she showed them a roundabout way to their home, which they had never known before, and Hansel was thankful for her help, and went back to his parents.
+---- Segment 6: The old woman's words lingered in Hansel's mind as they made their way back through the forest. He couldn't shake the feeling that she was telling the truth, that they would indeed face hardships if they didn't find a way to secure more food for their family. As they approached their cottage, Hansel shared his concerns with his parents.
+
+"Mother, father, what if the dearth continues? What if we can't find work or food for much longer?" Hansel asked, his voice filled with worry.
+----------------------------------------
+---- Segment 6: The old woman's words lingered in Hansel's mind as they made their way back through the forest. He couldn't shake the feeling that she was telling the truth, that they would indeed face hardships if they didn't find a way to secure more food for their family. As they approached their cottage, Hansel shared his concerns with his parents.
+
+"Mother, father, what if the dearth continues? What if we can't find work or food for much longer?" Hansel asked, his voice filled with worry.
+---- Segment 7: His father sighed and scratched his beard thoughtfully. "We'll cross that bridge when we come to it, my dear son," he replied. "But perhaps the old woman was right. Perhaps we should have taken her with us."
+
+His mother looked at him sharply. "Don't be foolish, Hansel. We have no room for strangers, and we certainly can't afford to take on the responsibility of feeding another mouth."
+
+Hansel couldn't help but feel uneasy as they entered their cottage and prepared their meal. He couldn't shake the feeling that the old woman's words would come back to haunt them. As they ate, Hansel couldn't focus on the food before him. He kept glancing over at his mother and father, wondering if they were truly prepared for the challenges that lay ahead.
+----------------------------------------
+---- Segment 7: His father sighed and scratched his beard thoughtfully. "We'll cross that bridge when we come to it, my dear son," he replied. "But perhaps the old woman was right. Perhaps we should have taken her with us."
+
+His mother looked at him sharply. "Don't be foolish, Hansel. We have no room for strangers, and we certainly can't afford to take on the responsibility of feeding another mouth."
+
+Hansel couldn't help but feel uneasy as they entered their cottage and prepared their meal. He couldn't shake the feeling that the old woman's words would come back to haunt them. As they ate, Hansel couldn't focus on the food before him. He kept glancing over at his mother and father, wondering if they were truly prepared for the challenges that lay ahead.
+---- Segment 8: As the sun began to set and they prepared for bed, Hansel couldn't sleep. He lay awake, listening to the sounds of the forest outside. He thought about the old woman, and the secret she had promised to share. He wondered if he should have taken her up on her offer, even if it meant bringing a stranger into their home.
+
+But it was too late now. They had returned home, and Hansel couldn't change the past. All he could do was hope that his parents were right, that they would be able to weather the coming storm, and that they wouldn't be forced to make the kind of choices that the old woman had warned them about.
+
+As dawn broke the following morning, Hansel arose early and went to the forest to gather more firewood. He couldn't shake the feeling that they needed to be prepared for whatever the future held. As he worked, he thought about the old woman's words, and the secret she had promised to share. He couldn't help but wonder what it was, and if it could truly make a difference for his family.
+----------------------------------------
+---- Segment 8: As the sun began to set and they prepared for bed, Hansel couldn't sleep. He lay awake, listening to the sounds of the forest outside. He thought about the old woman, and the secret she had promised to share. He wondered if he should have taken her up on her offer, even if it meant bringing a stranger into their home.
+
+But it was too late now. They had returned home, and Hansel couldn't change the past. All he could do was hope that his parents were right, that they would be able to weather the coming storm, and that they wouldn't be forced to make the kind of choices that the old woman had warned them about.
+
+As dawn broke the following morning, Hansel arose early and went to the forest to gather more firewood. He couldn't shake the feeling that they needed to be prepared for whatever the future held. As he worked, he thought about the old woman's words, and the secret she had promised to share. He couldn't help but wonder what it was, and if it could truly make a difference for his family.
+---- Segment 9: But for now, all he could do was focus on the present, and do everything in his power to help his family survive. He gathered as much firewood as he could, and returned home to help his mother and father prepare their meals. And as they sat down to eat together, Hansel couldn't help but feel a sense of gratitude for the simple pleasures they still had, and a determination to do whatever it took to ensure their survival in the days ahead.
+----------------------------------------
+Processing file: 07_grimm_pg19068_snow-white_tt_20250710_110157_tt_gen_mistral-7b-instruct-v0.2.Q4_K_M_20250713_191246_tt_20250714_002423.txt
+----------------------------------------
+---- Segment 0: It was the middle of winter, and the snow-flakes were falling like feathers from the sky, and a queen sat at her window working, and her embroidery-frame was of ebony. And as she worked, gazing at times out on the snow, she pricked her finger, and there fell from it three drops of blood on the snow. And when she saw how bright and red it looked, she said to herself, "Oh that I had a child as white as snow, as red as blood, and as black as the wood of the embroidery frame!"
+
+Not very long after she had a daughter, with a skin as white as snow, lips as red as blood, and hair as black as ebony, and she was named Snow-white. And when she was born the queen died. The child was brought up by her father, who was a king, and he married again. The new queen was envious of Snow-white, and sought to have her destroyed. But the wicked stepmother could find no means to do away with her; for a little magic which she had, did not reach Snow-white, who lived in a distant wing of the castle.
+---- Segment 1: One day, when Snow-white was seven years old, the queen sent for her, and bade her come to her room to learn to read and write, and she had prepared a beautiful copy of the Bible, with gold and jewels set into it.
+----------------------------------------
+---- Segment 1: One day, when Snow-white was seven years old, the queen sent for her, and bade her come to her room to learn to read and write, and she had prepared a beautiful copy of the Bible, with gold and jewels set into it.
+---- Segment 2: The wicked queen, in a fit of jealousy and rage, concocted a wicked plan to poison Snow-white. She ordered her huntsmen to take the young princess into the depths of the dark forest, to be lost forever. But the huntsmen, who had known and loved Snow-white since her infancy, could not bring themselves to carry out such a heinous deed. They instead took her to a cottage deep in the woods, where seven little dwarfs lived. These dwarfs, who earned their living by mining for gold and gems, welcomed the child and vowed to protect her.
+
+Snow-white lived happily among the dwarfs for many years, and they taught her the ways of the forest and the secrets of mining. She grew into a beautiful and kind young woman, beloved by all. But the wicked queen, still scheming, sent out messengers to the entire kingdom, disguised as old women, bearing apples laced with poison. They went from house to house, offering the apples to every child they found.
+----------------------------------------
+---- Segment 2: The wicked queen, in a fit of jealousy and rage, concocted a wicked plan to poison Snow-white. She ordered her huntsmen to take the young princess into the depths of the dark forest, to be lost forever. But the huntsmen, who had known and loved Snow-white since her infancy, could not bring themselves to carry out such a heinous deed. They instead took her to a cottage deep in the woods, where seven little dwarfs lived. These dwarfs, who earned their living by mining for gold and gems, welcomed the child and vowed to protect her.
+
+Snow-white lived happily among the dwarfs for many years, and they taught her the ways of the forest and the secrets of mining. She grew into a beautiful and kind young woman, beloved by all. But the wicked queen, still scheming, sent out messengers to the entire kingdom, disguised as old women, bearing apples laced with poison. They went from house to house, offering the apples to every child they found.
+---- Segment 3: Snow-white, unaware of the danger, ate an apple given to her by one of the disguised messengers. But she was not destroyed, for her purity and innocence protected her. She fell into a deep sleep, and the huntsmen, who had been searching for her all this time, found her in the cottage of the dwarfs. They took her back to the castle, where her stepmother was overjoyed to think that her wicked plan had succeeded. But Snow-white soon awoke, and the wicked queen was filled with rage. In the ensuing struggle, Snow-white's purity shone bright, and the queen was turned into an old hag. The people of the kingdom rejoiced, and Snow-white was hailed as their beloved queen. She ruled wisely and justly, and the land prospered under her rule. Snow-white's story became a legend, passed down through the generations, a tale of purity, bravery, and the triumph of good over evil.
+----------------------------------------
+Processing file: 08_grimm_pg19068_the_golden_goose_tt_20250710_110158_tt_gen_mistral-7b-instruct-v0.2.Q4_K_M_20250713_191246_tt_20250714_002423.txt
+----------------------------------------
+---- Segment 0: There was a man who had three sons, the youngest of whom was called the Simpleton, and was despised, laughed at, and neglected, on every occasion. It happened one day that the eldest son wished to go into the forest to cut wood, and before he went his mother gave him a delicious pancake and a flask of wine, that he might not suffer from hunger or thirst. When he came into the forest a little old grey man met him, who wished him good day, and said, "Young man, I am very hungry, give me something to eat." The eldest son refused, and the grey man went away grumbling. But the tree he had his axe against gave him a hard blow, so that he was killed on the spot. The same thing happened to his two brothers, one after the other, and when the youngest came to the forest, he was met by the same grey man, who said, "Give me something to eat, young man," but he had nothing with him. He only answered, "I have nothing, but I will go and fetch water from the brook for you." He ran as fast as he could, and when he came back, the grey man had vanished, and in his place stood a beautiful golden goose, which thanked the youngest brother for his kindness, and laid an egg of pure gold. The youngest brother took the egg, and when he had sold it, he bought a fine coat and lived in comfort.
+---- Segment 1: When the brothers returned home, their mother was amazed at the change that had taken place in the youngest, and she asked him how he had come by such a fine coat. He told her that he had found the golden goose in the forest, and every time he had met the grey man, he had given him water to drink. The mother, who was still a little suspicious of the whole affair, said to him, "Go back to the forest, and if the grey man appears again, bring him home with you, and we will see what he is." The youngest brother went back to the forest, but the grey man did not appear. Instead, he met a beautiful princess, who was lost in the forest, and she thanked him for his kindness, and gave him a ring as a reward, which was of inestimable value. When the brothers heard of this, they were filled with envy, and they wished to kill their youngest brother and take the ring from him. But he had anticipated their treachery, and had fled to the king's court, where he was made welcome, and where he lived in happiness and prosperity.
+----------------------------------------
+---- Segment 1: When the brothers returned home, their mother was amazed at the change that had taken place in the youngest, and she asked him how he had come by such a fine coat. He told her that he had found the golden goose in the forest, and every time he had met the grey man, he had given him water to drink. The mother, who was still a little suspicious of the whole affair, said to him, "Go back to the forest, and if the grey man appears again, bring him home with you, and we will see what he is." The youngest brother went back to the forest, but the grey man did not appear. Instead, he met a beautiful princess, who was lost in the forest, and she thanked him for his kindness, and gave him a ring as a reward, which was of inestimable value. When the brothers heard of this, they were filled with envy, and they wished to kill their youngest brother and take the ring from him. But he had anticipated their treachery, and had fled to the king's court, where he was made welcome, and where he lived in happiness and prosperity.
+---- Segment 2: The man's youngest son, Simpleton, continued to face ridicule and neglect from his elder brothers. Despite this, he went into the forest to help his brothers cut wood, as they had done before. However, the brothers were met with misfortune. Each time they refused to share their food and drink with an old grey man they encountered, he caused their trees to fall, killing them instantly. In their place, the youngest brother appeared. Instead of refusing the grey man, he fetched water for him from a nearby brook. In appreciation, the grey man transformed into a beautiful golden goose, rewarding the youngest brother with a golden egg.
+----------------------------------------
+---- Segment 2: The man's youngest son, Simpleton, continued to face ridicule and neglect from his elder brothers. Despite this, he went into the forest to help his brothers cut wood, as they had done before. However, the brothers were met with misfortune. Each time they refused to share their food and drink with an old grey man they encountered, he caused their trees to fall, killing them instantly. In their place, the youngest brother appeared. Instead of refusing the grey man, he fetched water for him from a nearby brook. In appreciation, the grey man transformed into a beautiful golden goose, rewarding the youngest brother with a golden egg.
+---- Segment 3: Upon returning home, the youngest brother's mother was delighted by her son's change in fortune. She asked him to return to the forest and bring the grey man home if he appeared again. However, the grey man did not show himself. Instead, the youngest brother met a lost princess, who expressed her gratitude for his kindness. She rewarded him with a precious ring.
+----------------------------------------
+---- Segment 3: Upon returning home, the youngest brother's mother was delighted by her son's change in fortune. She asked him to return to the forest and bring the grey man home if he appeared again. However, the grey man did not show himself. Instead, the youngest brother met a lost princess, who expressed her gratitude for his kindness. She rewarded him with a precious ring.
+---- Segment 4: Meanwhile, the elder brothers, filled with envy, plotted to kill their youngest brother and steal the ring. However, the youngest brother anticipated their treachery and fled to the king's court, where he was welcomed and lived a prosperous life. The elder brothers were left behind, their cruel intentions thwarted.
+----------------------------------------
+Processing file: 09_grimm_pg19068_the_wolf_and_the_seven_kids_tt_20250710_110158_tt_gen_mistral-7b-instruct-v0.2.Q4_K_M_20250713_191246_tt_20250714_002423.txt
+----------------------------------------
+---- Segment 0: There was once an old goat who had seven little ones, and was as fond of them as ever mother was of her children. One day she had to go into the wood to fetch food for them, so she called them all round her.
+---- Segment 1: "Dear children," said she, "I am going out into the wood; and while I am gone, be on your guard against the wolf, for if he were once to get inside he would eat you up, skin, bones, and all. The wretch often disguises himself, but he may always be known by his hoarse voice and black paws." The little goats promised their mother that they would be very careful, and when she had gone, they set themselves to work to finish the day's tasks. But no sooner had they started than they heard a sound of footsteps in the wood. They all looked at one another, and the eldest asked, "Who can that be, brothers?" "That," answered the youngest, "is the wolf."
+----------------------------------------
+---- Segment 1: "Dear children," said she, "I am going out into the wood; and while I am gone, be on your guard against the wolf, for if he were once to get inside he would eat you up, skin, bones, and all. The wretch often disguises himself, but he may always be known by his hoarse voice and black paws." The little goats promised their mother that they would be very careful, and when she had gone, they set themselves to work to finish the day's tasks. But no sooner had they started than they heard a sound of footsteps in the wood. They all looked at one another, and the eldest asked, "Who can that be, brothers?" "That," answered the youngest, "is the wolf."
+---- Segment 2: Suddenly, there was a loud knock on the door. The kids looked at each other in terror. It was the wolf in disguise. "Hello, little goats," he said in a gentle voice, "I am your friend, come out and play with me."
+----------------------------------------
+---- Segment 2: Suddenly, there was a loud knock on the door. The kids looked at each other in terror. It was the wolf in disguise. "Hello, little goats," he said in a gentle voice, "I am your friend, come out and play with me."
+---- Segment 3: The eldest goat was wise beyond his years and knew that it was a trap. He opened the window just enough to look outside. "We cannot come out now," he said, "our mother has forbidden us."
+
+The wolf, disguised as a friendly shepherd, tried to persuade the kids to come out and play, but they stood firm, knowing that their mother's warning was still fresh in their minds. Frustrated, the wolf left, vowing to return in another disguise.
+----------------------------------------
+---- Segment 3: The eldest goat was wise beyond his years and knew that it was a trap. He opened the window just enough to look outside. "We cannot come out now," he said, "our mother has forbidden us."
+
+The wolf, disguised as a friendly shepherd, tried to persuade the kids to come out and play, but they stood firm, knowing that their mother's warning was still fresh in their minds. Frustrated, the wolf left, vowing to return in another disguise.
+---- Segment 4: Meanwhile, the kids continued their work, but they remained on their guard, listening carefully for any signs of danger. They finished their tasks just as their mother returned. She was relieved to find them safe and sound.
+
+As they sat down to dinner, the goats thanked their mother for her wise advice and for teaching them to be cautious. The old goat smiled and told them that it was better to be safe than sorry. They all agreed and enjoyed their meal together, feeling grateful for each other's company and their mother's love.
+
+However, the wolf was not one to give up easily. He returned yet again, this time disguised as a grandmother. But the kids, though they were tempted by her kindly demeanor, remembered their mother's warning and did not fall for his trick. They hid and waited until their mother came home, and once again they were safe.
+----------------------------------------
+---- Segment 4: Meanwhile, the kids continued their work, but they remained on their guard, listening carefully for any signs of danger. They finished their tasks just as their mother returned. She was relieved to find them safe and sound.
+
+As they sat down to dinner, the goats thanked their mother for her wise advice and for teaching them to be cautious. The old goat smiled and told them that it was better to be safe than sorry. They all agreed and enjoyed their meal together, feeling grateful for each other's company and their mother's love.
+
+However, the wolf was not one to give up easily. He returned yet again, this time disguised as a grandmother. But the kids, though they were tempted by her kindly demeanor, remembered their mother's warning and did not fall for his trick. They hid and waited until their mother came home, and once again they were safe.
+---- Segment 5: The wolf, feeling defeated, disappeared into the wood, vowing to leave the goats alone. The kids, relieved and grateful for their mother's guidance, continued to live happily ever after. The end.
+----------------------------------------
+Processing file: 10_grimm_pg19068_the_frog_prince_tt_20250710_110158_tt_gen_mistral-7b-instruct-v0.2.Q4_K_M_20250713_191246_tt_20250714_002423.txt
+----------------------------------------
+---- Segment 0: In the old times, when it was still of some use to wish for the thing one wanted, there lived a King whose daughters were all handsome, but the youngest was so beautiful that the sun himself, who has seen so much, wondered each time he shone over her because of her beauty. Near the royal castle there was a great dark wood, and in the wood under an old linden-tree was a well; and when the day was hot, the King's daughter used to go forth into the wood and sit by the brink of the cool well, and if the time seemed long, she would take out a golden ball, and throw it up and catch it again, and this was her favourite pastime.
+---- Segment 1: Now it happened one day that the golden ball, instead of falling back into the maiden's little hand which had sent it aloft, dropped to the ground near the edge of the well and rolled in. The king's daughter followed it with her eyes as it sank, but the well was deep, so deep that the bottom could not be seen. Then she began to weep, and she wept and wept as if she could never be comforted. And in the midst of her weeping she heard a voice saying to her, "Why do you weep, lovely princess?" And she answered, "My golden ball has rolled into the well, and I cannot get it out."
+
+But the voice said, "Fear not, sweet princess, I will get it for you," and straightway, there came up out of the water a frog.
+----------------------------------------
+---- Segment 1: Now it happened one day that the golden ball, instead of falling back into the maiden's little hand which had sent it aloft, dropped to the ground near the edge of the well and rolled in. The king's daughter followed it with her eyes as it sank, but the well was deep, so deep that the bottom could not be seen. Then she began to weep, and she wept and wept as if she could never be comforted. And in the midst of her weeping she heard a voice saying to her, "Why do you weep, lovely princess?" And she answered, "My golden ball has rolled into the well, and I cannot get it out."
+
+But the voice said, "Fear not, sweet princess, I will get it for you," and straightway, there came up out of the water a frog.
+---- Segment 2: The frog, keeping his promise, dived down to the bottom of the well and retrieved the golden ball. But in return for his service, the princess demanded that the frog should be transformed into a prince and live with her at the castle. The frog agreed, and the princess's heart was filled with joy. She watched as the frog transformed into a handsome young man, and they fell in love.
+----------------------------------------
+---- Segment 2: The frog, keeping his promise, dived down to the bottom of the well and retrieved the golden ball. But in return for his service, the princess demanded that the frog should be transformed into a prince and live with her at the castle. The frog agreed, and the princess's heart was filled with joy. She watched as the frog transformed into a handsome young man, and they fell in love.
+---- Segment 3: However, their happiness was not meant to last. The wicked stepmother of the princess, who had always coveted the throne, heard of the transformation and was filled with envy. She convinced the king that the frog prince was a sorcerer who had cast a spell on his daughter, and the king, believing her lies, ordered his soldiers to seize the frog prince and cast him back into the well.
+
+The princess, upon hearing of her lover's imprisonment, was heartbroken. She went to the well and pleaded with the frog, now once again her captive, to be released. But the frog, knowing that the king would never forgive them, refused.
+
+"I will not return to your world until you marry another and are truly happy," the frog said. "Only then will I return to you."
+----------------------------------------
+---- Segment 3: However, their happiness was not meant to last. The wicked stepmother of the princess, who had always coveted the throne, heard of the transformation and was filled with envy. She convinced the king that the frog prince was a sorcerer who had cast a spell on his daughter, and the king, believing her lies, ordered his soldiers to seize the frog prince and cast him back into the well.
+
+The princess, upon hearing of her lover's imprisonment, was heartbroken. She went to the well and pleaded with the frog, now once again her captive, to be released. But the frog, knowing that the king would never forgive them, refused.
+
+"I will not return to your world until you marry another and are truly happy," the frog said. "Only then will I return to you."
+---- Segment 4: And so the princess, with a heavy heart, was forced to marry another prince from a neighboring kingdom. The years passed, and she grew old, but her love for the frog prince never faded. And one day, as she sat by the well, she saw the frog jumping and leaping around the water's edge, a sign that his time had come.
+
+"My love," she called out, "I am ready now. Come back to me."
+
+And the frog prince, true to his word, emerged from the well and embraced his princess, and they lived happily ever after.
+----------------------------------------
+Processing file: 11_grimm_gb1823_jorinda_and_jorindel_tt_20250710_110158_tt_gen_mistral-7b-instruct-v0.2.Q4_K_M_20250713_191246_tt_20250714_002423.txt
+----------------------------------------
+---- Segment 0: There  was  once  an  old  castle  that  stood  in  the  middle  of  a  large  thick  wood,  and  in  the  castle  lived  an  old  fairy.  All  the  day  long  she  flew  about  in  the  form  of  an  owl,  or  crept about the country like a cat; but at night she  always became an old woman again. When any youth came within a hundred paces of her  castle, he became quite fixed, and could not  move a step till she came and set him free:  but when any pretty maiden came within that  distance, she was changed into a bird ; and the  fairy put her into a cage and hung her up in a  chamber in the castle. There were seven  hundred of these cages hanging in the castle, and all with beautiful birds in them. Now it chanced that a prince, on a hunting excursion, came within a hundred paces of the castle. The old fairy, in the shape of an owl, swooped down upon him, and he stood fixed as if turned into a stone. The prince's  huntsman, who was with him, saw what had happened, and  hurried back to the palace to tell the queen  about it.
+---- Segment 1: "Alas!" said the queen, "my dear lord, what  evil hath befallen thee? We must away at  once to the castle, and rescue thee from the  enchantment." She bade her ladies-in-waiting  prepare a magnificent procession, and they  set out, the queen riding in a fine chariot,  and the ladies following in a long train,  with a great retinue. When they came to the  castle gates, they were met by the fairy, who  had taken her old woman's shape once more.
+----------------------------------------
+---- Segment 1: "Alas!" said the queen, "my dear lord, what  evil hath befallen thee? We must away at  once to the castle, and rescue thee from the  enchantment." She bade her ladies-in-waiting  prepare a magnificent procession, and they  set out, the queen riding in a fine chariot,  and the ladies following in a long train,  with a great retinue. When they came to the  castle gates, they were met by the fairy, who  had taken her old woman's shape once more.
+---- Segment 2: "Go  back,  dear  queen!"  she  cried,  "thou  art too late! Thou canst not enter here; for the  prince is no longer a man, but a beautiful  bird, and he is sitting on a branch, singing  to me. But thou shalt have thy will! Thou shalt  have one of his brothers, and I will give thee  him to-morrow for thy husband!"
+----------------------------------------
+---- Segment 2: "Go  back,  dear  queen!"  she  cried,  "thou  art too late! Thou canst not enter here; for the  prince is no longer a man, but a beautiful  bird, and he is sitting on a branch, singing  to me. But thou shalt have thy will! Thou shalt  have one of his brothers, and I will give thee  him to-morrow for thy husband!"
+---- Segment 3: But the queen was not to be outwitted, and she  determined to remain there all night, and see  what would happen. So she sat down with her  ladies, and waited, and they kept a sharp  look-out, and watched all night, and saw the  fairy turn back into an owl at dawn.
+
+In the morning, when it was broad day, the  fairy came again in her owl shape, and went  about as usual, creeping and flying about  the country. But the queen, with her keen eyes,  saw her, and she called to her ladies to seize  her. They did so, and the fairy was taken  prisoner. Then they set the prince free, and he  was transformed back into a man again, and he  thanked his good queen for her loyalty and  love.
+----------------------------------------
+---- Segment 3: But the queen was not to be outwitted, and she  determined to remain there all night, and see  what would happen. So she sat down with her  ladies, and waited, and they kept a sharp  look-out, and watched all night, and saw the  fairy turn back into an owl at dawn.
+
+In the morning, when it was broad day, the  fairy came again in her owl shape, and went  about as usual, creeping and flying about  the country. But the queen, with her keen eyes,  saw her, and she called to her ladies to seize  her. They did so, and the fairy was taken  prisoner. Then they set the prince free, and he  was transformed back into a man again, and he  thanked his good queen for her loyalty and  love.
+---- Segment 4: "But now," said he, "I must go and rescue my  brothers from the fairy's power. She has  deceived thee, and promised thee one of them as  a husband. Come with me, dear queen, and thou  shalt see me set them all at liberty!"
+----------------------------------------
+---- Segment 4: "But now," said he, "I must go and rescue my  brothers from the fairy's power. She has  deceived thee, and promised thee one of them as  a husband. Come with me, dear queen, and thou  shalt see me set them all at liberty!"
+---- Segment 5: The queen consented, and they all went back  to the castle together. There they found six  brothers, all changed into birds, and they were  all set free. And when the fairy was brought  before them, she was condemned to remain  in her true form of an owl for evermore.  And the prince and his queen returned to their  palace, and their wedding was celebrated with  great rejoicing.
+----------------------------------------
+---- Segment 5: The queen consented, and they all went back  to the castle together. There they found six  brothers, all changed into birds, and they were  all set free. And when the fairy was brought  before them, she was condemned to remain  in her true form of an owl for evermore.  And the prince and his queen returned to their  palace, and their wedding was celebrated with  great rejoicing.
+---- Segment 6: The fairy's tricks were exposed, and the prince, with the help of his brave and loyal wife, managed to rescue his brothers from the enchanted castle. The fairy was brought to justice, and she was condemned to remain in her true form of an owl for eternity. The prince and his queen, filled with joy, returned to their palace where they celebrated their wedding in grandeur. Life went on as usual, and the prince and his brothers lived happily ever after, cherishing their freedom and their loving queen. The castle, once a symbol of enchantment and deceit, now stood as a reminder of the power of love, loyalty, and courage. And as for the fairy, she learned that her days of manipulation and control were over. The end.
+----------------------------------------
+Processing file: 12_grimm_gb1826_the_nose_tt_20250710_110158_tt_gen_mistral-7b-instruct-v0.2.Q4_K_M_20250713_191246_tt_20250714_002423.txt
+----------------------------------------
+---- Segment 0: Did you ever hear the story of the three poor  soldiers, who, after having fought hard in the  wars, set out on their road home begging their way as they went?
+---- Segment 1: They had journeyed on a long way, sick at heart with their bad luck at thus being  turned loose on the world in their old days, when one evening they reached a deep gloomy wood through which they must pass;  night came fast upon them, and they found  that they must, however unwillingly, sleep in  the wood; so to make all as safe as they could, it was agreed that two should lie down and  sleep, while a third sat up and watched lest  wild beasts should break in and tear them  to pieces ; when he was tired he was to wake  one of the others and sleep in his turn, and  so on with the third, so as to share the work fairly among them. Now it happened that the soldier, who was chosen to sit up and watch the first night,  was a man of a very sensitive and peculiar  smell. He had a large and very prominent  nose, which was the cause of his peculiar  sensation. He could smell a long way off,  and he had a dreadful fear test the wild beasts,  who are generally very sensitive to smell,  should catch the scent of his nose and come  to devour him. He kept his eyes wide open  to watch, and his heart beat fast with fear,  and he felt that he could not close his eyes for  a moment to rest; and yet it was impossible  for him to keep awake all night, and at  length he fell asleep, and the others knew  nothing of it until the morning came.
+----------------------------------------
+---- Segment 1: They had journeyed on a long way, sick at heart with their bad luck at thus being  turned loose on the world in their old days, when one evening they reached a deep gloomy wood through which they must pass;  night came fast upon them, and they found  that they must, however unwillingly, sleep in  the wood; so to make all as safe as they could, it was agreed that two should lie down and  sleep, while a third sat up and watched lest  wild beasts should break in and tear them  to pieces ; when he was tired he was to wake  one of the others and sleep in his turn, and  so on with the third, so as to share the work fairly among them. Now it happened that the soldier, who was chosen to sit up and watch the first night,  was a man of a very sensitive and peculiar  smell. He had a large and very prominent  nose, which was the cause of his peculiar  sensation. He could smell a long way off,  and he had a dreadful fear test the wild beasts,  who are generally very sensitive to smell,  should catch the scent of his nose and come  to devour him. He kept his eyes wide open  to watch, and his heart beat fast with fear,  and he felt that he could not close his eyes for  a moment to rest; and yet it was impossible  for him to keep awake all night, and at  length he fell asleep, and the others knew  nothing of it until the morning came.
+---- Segment 2: When the morning came, and it was time for him to wake up the next man, he found  that he could not move himself, nor open his eyes, nor even utter a sound. In a few moments  he knew why. He was lying in a pool of blood,  and, as he raised himself on his elbows to see what had happened to him, he beheld a terrible sight. The most fearful wild beast, a huge bear, had come to them in the night, and, smelling the peculiar scent of the man's nose, had torn him to pieces without striking a blow, and devoured him.
+----------------------------------------
+---- Segment 2: When the morning came, and it was time for him to wake up the next man, he found  that he could not move himself, nor open his eyes, nor even utter a sound. In a few moments  he knew why. He was lying in a pool of blood,  and, as he raised himself on his elbows to see what had happened to him, he beheld a terrible sight. The most fearful wild beast, a huge bear, had come to them in the night, and, smelling the peculiar scent of the man's nose, had torn him to pieces without striking a blow, and devoured him.
+---- Segment 3: The two remaining soldiers were horror-struck, and, though their hearts were filled with sympathy for the poor fellow, they could not help thinking that this was a terrible warning to them. They decided that they would try to make as good a pace as they could through the wood, and leave it as soon as they could, and they set off at a quick march, keeping a sharp lookout all around them.
+
+But it was not long before they heard a low growl, and presently saw, in the distance, a great bear coming towards them. They ran as fast as their legs could carry them, and in a short time they were beyond the danger; but the bear, as if maddened by the loss of his prey, pursued them for a long distance, and they knew that they could not outrun him.
+----------------------------------------
+---- Segment 3: The two remaining soldiers were horror-struck, and, though their hearts were filled with sympathy for the poor fellow, they could not help thinking that this was a terrible warning to them. They decided that they would try to make as good a pace as they could through the wood, and leave it as soon as they could, and they set off at a quick march, keeping a sharp lookout all around them.
+
+But it was not long before they heard a low growl, and presently saw, in the distance, a great bear coming towards them. They ran as fast as their legs could carry them, and in a short time they were beyond the danger; but the bear, as if maddened by the loss of his prey, pursued them for a long distance, and they knew that they could not outrun him.
+---- Segment 4: At length they reached a broad, swiftly flowing river, and on the farther side, standing on the top of a bank, they saw a house, and, as they approached it, they heard the sound of music and merriment coming from within. They rushed in, and found a great feast in progress, and in the midst of the feast they saw a beautiful and graceful princess seated in the chair of honour. She was singing a merry song, and all around the table were her subjects, laughing and making merry.
+----------------------------------------
+---- Segment 4: At length they reached a broad, swiftly flowing river, and on the farther side, standing on the top of a bank, they saw a house, and, as they approached it, they heard the sound of music and merriment coming from within. They rushed in, and found a great feast in progress, and in the midst of the feast they saw a beautiful and graceful princess seated in the chair of honour. She was singing a merry song, and all around the table were her subjects, laughing and making merry.
+---- Segment 5: The soldiers were amazed and delighted, and they fell on their knees before the princess, and told her their story. She was touched with sympathy, and she bade them be of good cheer, and they were welcomed to the feast and made merry with her people, and they never forgot that night.
+
+Just then, as they were recounting their tale to the princess, they heard a loud growl from outside the castle walls. The soldiers exchanged worried glances, their hearts pounding in their chests. The princess, however, remained calm and composed.
+----------------------------------------
+---- Segment 5: The soldiers were amazed and delighted, and they fell on their knees before the princess, and told her their story. She was touched with sympathy, and she bade them be of good cheer, and they were welcomed to the feast and made merry with her people, and they never forgot that night.
+
+Just then, as they were recounting their tale to the princess, they heard a loud growl from outside the castle walls. The soldiers exchanged worried glances, their hearts pounding in their chests. The princess, however, remained calm and composed.
+---- Segment 6: "Fear not, brave soldiers," she said, her voice steady and strong. "I have a guard of the finest hunters in the land, and they are well-equipped to handle any danger that may come our way."
+
+The soldiers breathed a sigh of relief, but they couldn't help feeling uneasy as they listened to the bear's growls growing louder and closer. Suddenly, the castle gates burst open, and in stormed a mighty bear, its eyes fixed on the soldiers and the princess.
+
+But the hunters were quick to respond, and they surrounded the beast with their bows and arrows, ready to strike at a moment's notice. The bear roared and charged, but the hunters held their ground, their aim true and unwavering. With a final, fierce roar, the bear fell to the ground, defeated.
+----------------------------------------
+---- Segment 6: "Fear not, brave soldiers," she said, her voice steady and strong. "I have a guard of the finest hunters in the land, and they are well-equipped to handle any danger that may come our way."
+
+The soldiers breathed a sigh of relief, but they couldn't help feeling uneasy as they listened to the bear's growls growing louder and closer. Suddenly, the castle gates burst open, and in stormed a mighty bear, its eyes fixed on the soldiers and the princess.
+
+But the hunters were quick to respond, and they surrounded the beast with their bows and arrows, ready to strike at a moment's notice. The bear roared and charged, but the hunters held their ground, their aim true and unwavering. With a final, fierce roar, the bear fell to the ground, defeated.
+---- Segment 7: The soldiers and the princess cheered in triumph, their hearts filled with gratitude and relief. The princess thanked the soldiers for sharing their story with her and for their bravery in the face of danger. She promised them a warm welcome and a place to stay in her castle, a promise they gladly accepted.
+
+And so the soldiers, who had once been beggars and outcasts, found a new home and a new family in the beautiful and gracious princess. They lived out the rest of their days in peace and happiness, their memories of the past replaced by the joy and love that surrounded them.
+----------------------------------------
+Processing file: 13_grimm_ia1853-1_the_little_brother_and_sister_tt_20250710_110158_tt_gen_mistral-7b-instruct-v0.2.Q4_K_M_20250713_191246_tt_20250714_002423.txt
+----------------------------------------
+---- Segment 0: There was once a little Brother who took his Sister by the hand, and said, "Since our own dear mother's death we have not had one happy hour; our stepmother beats us every day, and, if we come near her, kicks us away with her foot. Our food is the hard crusts of bread which are left, and even the dog under the table fares better than we, for he often gets a nice morsel. Come, let -us wander forth into the wide world." So the whole day long they travelled over meadows, fields, and stones, and when it rained the Sister said, "It is Heaven crying with our hearts.'' By evening they came into a large forest, and were so wearied with grief, hunger, and their long walk, that they laid themselves down in a hollow tree, and went to sleep. When they awoke the next morning, the sun had already risen high in the heavens, and it shone quite hot into the tree, so that the little Boy said to his Sister, "I am so thirsty, if I knew where there was a brook I would go and drink. Ah! I think I hear one running;" and so saying he got up, and, taking his Sister's hand, they went in search of the brook. But it was not a brook, it was a cruel, cunning snake, which twisted round the little Boy, and, before he could cry for help, had swallowed him up. The Sister, when she saw this, ran away crying, "O, dear Brother, how I wish that I might die!"
+Suddenly, as she wept, she heard a voice behind her, "Do not weep, little Sister, I am your guardian. You have suffered enough, and now I will help you." The voice belonged to a kind-hearted old man, who lived in the forest as a hermit. He took the Sister in, gave her good food to eat, and a comfortable bed to sleep in. She stayed with him for many days, and he told her wonderful stories about the creatures in the forest, and about the world beyond.
+---- Segment 1: But one day, when she was out collecting berries, she saw her Brother standing by a tree, looking very sad. The old man explained that he was a woodland spirit, and he had taken the form of the little Brother to comfort the Sister and protect her. He could not change back, but he promised to stay with her always, and help her in any way he could.
+
+From that day on, the Sister was never alone again. She grew up to be a strong, wise woman, who knew how to care for herself and others. She lived a long and happy life, and when she was old, she told her grandchildren the stories that the old man had told her, and they were filled with wonder and delight.
+----------------------------------------
+---- Segment 1: But one day, when she was out collecting berries, she saw her Brother standing by a tree, looking very sad. The old man explained that he was a woodland spirit, and he had taken the form of the little Brother to comfort the Sister and protect her. He could not change back, but he promised to stay with her always, and help her in any way he could.
+
+From that day on, the Sister was never alone again. She grew up to be a strong, wise woman, who knew how to care for herself and others. She lived a long and happy life, and when she was old, she told her grandchildren the stories that the old man had told her, and they were filled with wonder and delight.
+---- Segment 2: And so, the little Brother and Sister, though they had suffered much, had found happiness in the most unexpected of places, and their story was one of love, loss, and the power of the human spirit.
+----------------------------------------
+Processing file: 14_grimm_ia1853-1_the_gold_children_tt_20250710_110158_tt_gen_mistral-7b-instruct-v0.2.Q4_K_M_20250713_191246_tt_20250714_002423.txt
+----------------------------------------
+---- Segment 0: Once upon a time there was a poor Man and his Wife, who had. nothing in the world but their hut, and they lived from hand to mouth by catching fish. But once it happened that the man, sitting by the water's edge, threw in his net and drew out a golden Fish. And while he was looking at the fish with great wonderment, it exclaimed, "Do you hear, fisherman? throw me back into the water, and I will change your hui into a fine castle." But the Fisherman replied, "What use is a castle to me if I have nothing to eat?" "That is taken care about," rejoined the Fish, "for in the castle you will find a cupboard which, on opening, you will see full of dishes; of the most delicate food, and as much as you like." "And what must I do," asked the Man, "to secure these blessings?" "Only promise to give me your eldest Child, when it is born, in return for all this wealth." The Man, who was a wretched creature, was tempted, and agreed to this condition. He threw the Fish back into the water. And soon after the promise was fulfilled, for a beautiful Child was born to the Wife, whom they called Golden-Hair. But as the time came for the Fish to claim the Child, they resolved to fly to a distant country, where they might be safe. They travelled through the wilderness and arrived at a strange land, where the people were kind and good. Here the Woman gave birth to six more children, whom they named Silver-Hair, Brass-Hair, Iron-Hair, Copper-Hair, Linen-Hair, and Wood-Hair. And as each Child was born, the Fish came up from the water and took it away to fulfill its promise. The Man and his Wife were left with only Linen-Hair and Wood-Hair, who grew up and became their dearest friends.
+---- Segment 1: The CastleThe Man and his Wife, now poor no longer, built a magnificent castle, and lived in it with their two children. They had all the good things they could eat and drink, and were surrounded by beautiful gardens. They were happy and contented, and the children grew up strong and healthy.
+----------------------------------------
+---- Segment 1: The CastleThe Man and his Wife, now poor no longer, built a magnificent castle, and lived in it with their two children. They had all the good things they could eat and drink, and were surrounded by beautiful gardens. They were happy and contented, and the children grew up strong and healthy.
+---- Segment 2: The ArrivalThe years passed, and one day a magnificent carriage drawn by six horses arrived at the gates of the castle. Out stepped a tall and stately man, followed by his retinue. He was the representative of the Fish, come to claim the eldest Child, Golden-Hair.
+
+The ChallengeThe Man, however, was not about to give up his beloved Child without a fight. He had heard rumors that the Fish had a weakness for a certain herb, which grew in the nearby forest. If this herb was placed in the Fish's mouth, it would cause him to forget his promise and let the child go. The Man sent his two eldest sons, Silver-Hair and Brass-Hair, to bring the herb, while he made preparations for the battle.
+----------------------------------------
+---- Segment 2: The ArrivalThe years passed, and one day a magnificent carriage drawn by six horses arrived at the gates of the castle. Out stepped a tall and stately man, followed by his retinue. He was the representative of the Fish, come to claim the eldest Child, Golden-Hair.
+
+The ChallengeThe Man, however, was not about to give up his beloved Child without a fight. He had heard rumors that the Fish had a weakness for a certain herb, which grew in the nearby forest. If this herb was placed in the Fish's mouth, it would cause him to forget his promise and let the child go. The Man sent his two eldest sons, Silver-Hair and Brass-Hair, to bring the herb, while he made preparations for the battle.
+---- Segment 3: The BattleThe Fish arrived, and a terrible battle ensued between him and the Man. The Man fought with all his might, and with the help of his sons, he managed to wound the Fish severely. The Fish, infuriated, breathed a stream of fire, but the Man was able to dodge it and strike back with his sword. Finally, the Fish was defeated, and the Man and his sons managed to pluck the herb from his mouth.
+
+The TriumphThe Man and his sons rejoiced at their victory. The Fish, now powerless to keep his promise, was forced to release Golden-Hair to them. The Man and his Wife were overjoyed to be reunited with their beloved Child, and they lived happily ever after, with their two remaining children, Linen-Hair and Wood-Hair.
+----------------------------------------
+---- Segment 3: The BattleThe Fish arrived, and a terrible battle ensued between him and the Man. The Man fought with all his might, and with the help of his sons, he managed to wound the Fish severely. The Fish, infuriated, breathed a stream of fire, but the Man was able to dodge it and strike back with his sword. Finally, the Fish was defeated, and the Man and his sons managed to pluck the herb from his mouth.
+
+The TriumphThe Man and his sons rejoiced at their victory. The Fish, now powerless to keep his promise, was forced to release Golden-Hair to them. The Man and his Wife were overjoyed to be reunited with their beloved Child, and they lived happily ever after, with their two remaining children, Linen-Hair and Wood-Hair.
+---- Segment 4: The AftermathThe aftermath of the battle was that the Man and his family became legendary figures in the land, and their castle was visited by many travellers who marvelled at their story. And the children, Linen-Hair and Wood-Hair, grew up to be great heroes in their own right, and were remembered for generations to come.
+----------------------------------------
+---- Segment 4: The AftermathThe aftermath of the battle was that the Man and his family became legendary figures in the land, and their castle was visited by many travellers who marvelled at their story. And the children, Linen-Hair and Wood-Hair, grew up to be great heroes in their own right, and were remembered for generations to come.
+---- Segment 5: The LegacyThe legacy of the Gold Children was one of courage, determination, and the power of love. Their story was told and retold, and became a beacon of hope and inspiration for all those who heard it. And so the story of the Gold Children lives on, a testament to the indomitable spirit of mankind.
+
+The sun began to set over the magnificent castle, its golden spires reflecting off the calm waters of the lake. The Man and his Wife, now elderly, sat on the balcony of their grand hall, watching the scene before them with a sense of pride and satisfaction. They looked down upon their two remaining children, Linen-Hair and Wood-Hair, who played together in the gardens below.
+
+One day, as the Man sat by the lake, he remembered the golden Fish and the promise he had made long ago. He felt a pang of sadness, but was soon comforted by the thought that he had saved his eldest Child, Golden-Hair, from a fate he could not bear to think about.
+----------------------------------------
+---- Segment 5: The LegacyThe legacy of the Gold Children was one of courage, determination, and the power of love. Their story was told and retold, and became a beacon of hope and inspiration for all those who heard it. And so the story of the Gold Children lives on, a testament to the indomitable spirit of mankind.
+
+The sun began to set over the magnificent castle, its golden spires reflecting off the calm waters of the lake. The Man and his Wife, now elderly, sat on the balcony of their grand hall, watching the scene before them with a sense of pride and satisfaction. They looked down upon their two remaining children, Linen-Hair and Wood-Hair, who played together in the gardens below.
+
+One day, as the Man sat by the lake, he remembered the golden Fish and the promise he had made long ago. He felt a pang of sadness, but was soon comforted by the thought that he had saved his eldest Child, Golden-Hair, from a fate he could not bear to think about.
+---- Segment 6: As the years passed, the Man and his Wife grew older still, and eventually passed away. But their legacy lived on through their two brave children, Linen-Hair and Wood-Hair, who became renowned heroes in their own right. They travelled far and wide, helping those in need and fighting against injustice.
+
+And so, the story of the Gold Children continued to be told and retold, inspiring generations to come with their courage, determination, and the power of love. The end.
+----------------------------------------
+Processing file: 15_grimm_ia1853-1_the_knapsack_the_hat_and_the_horn_tt_20250710_110159_tt_gen_mistral-7b-instruct-v0.2.Q4_K_M_20250713_191246_tt_20250714_002423.txt
+----------------------------------------
+---- Segment 0: Once upon a time there were three brothers who every day sank deeper and deeper in poverty, until at last their need was so great that they were in danger of death from starvation, having nothing to bite or break. So they said to one another, "We cannot go on in this way; we had better go forth into the wide world and seek our fortunes." With these words they got up and set out, and travelled many a long mile over green fields and meadows without happening with any luck. One day they arrived in a large forest, and in the middle of it they found a hill, which, on their nearer approach, they saw was all silver. At this sight the eldest brother said, "Now I have met with my expected good fortune, and I desire nothing better." And, so saying, he took as much of the silver as he could carry and turned back again to his house. But the second brother said, "If he can be so rich, I also will be rich, and I will take as much as I can carry." And he too took as much as he could carry and turned back again. But the third brother said, "Neither silver nor gold is it that I lack; but that which I lack I see upon this hill." And he took a knapsack, a hat, and a horn, and went on. Now it happened that, as he journeyed on, he met a man who asked, "What dost thou want, good fellow?" And he answered, "I am a poor man, and I lack nothing but a wife." "Then," said the man, "take my eldest daughter to be thy wife." And he went with him, and they were married, and lived happily ever after.
+---- Segment 1: Now the second brother, who had stayed behind, grew more and more envious of his elder brother's prosperity, and at last, unable longer to endure it, he set out also to seek his fortunes. He travelled many miles, and at last came to a large castle, and there he was taken in as a servant. Now it happened that the master of the castle was a man who loved to hunt, and he took the second brother with him on all his hunts. And one day, as they were riding out, they came upon a herd of wild goats, and the master of the castle said to him, "Here take my hat and put it on, that we may not be seen by the goats." And the second brother took the hat and put it on. But as they came nearer and nearer to the goats, it happened that one of them looked at the second brother and said, "Ha, ha! There is the master of the castle, I see him by his hat." And the goats all fled. And the master was angry, and said to the second brother, "Thou hast betrayed me, and thou shalt be punished." And he punished him sorely, and at last he cast him out of the castle.
+----------------------------------------
+---- Segment 1: Now the second brother, who had stayed behind, grew more and more envious of his elder brother's prosperity, and at last, unable longer to endure it, he set out also to seek his fortunes. He travelled many miles, and at last came to a large castle, and there he was taken in as a servant. Now it happened that the master of the castle was a man who loved to hunt, and he took the second brother with him on all his hunts. And one day, as they were riding out, they came upon a herd of wild goats, and the master of the castle said to him, "Here take my hat and put it on, that we may not be seen by the goats." And the second brother took the hat and put it on. But as they came nearer and nearer to the goats, it happened that one of them looked at the second brother and said, "Ha, ha! There is the master of the castle, I see him by his hat." And the goats all fled. And the master was angry, and said to the second brother, "Thou hast betrayed me, and thou shalt be punished." And he punished him sorely, and at last he cast him out of the castle.
+---- Segment 2: Meanwhile the third brother, who was married to the king's daughter, lived on in happiness, and he had three sons, who grew up to be strong and brave men. And when they were grown up, the eldest said to his father, "Father, we have heard that our two brothers are still alive, and that they are in great need. Let us go and seek them out, and bring them home with us." And the father said, "Go, and may God be with you." And they set out and travelled many miles until at last they came to the place where the second brother had been cast out. And they found him sitting by the wayside, and he was very old and feeble. And they took him home with them, and he lived with them and was happy.
+----------------------------------------
+---- Segment 2: Meanwhile the third brother, who was married to the king's daughter, lived on in happiness, and he had three sons, who grew up to be strong and brave men. And when they were grown up, the eldest said to his father, "Father, we have heard that our two brothers are still alive, and that they are in great need. Let us go and seek them out, and bring them home with us." And the father said, "Go, and may God be with you." And they set out and travelled many miles until at last they came to the place where the second brother had been cast out. And they found him sitting by the wayside, and he was very old and feeble. And they took him home with them, and he lived with them and was happy.
+---- Segment 3: Now the third brother had a great many possessions, and he divided them all among his three brothers and his three sons, so that all were rich. And they all lived happily ever after, until the end of their days.
+----------------------------------------
+---- Segment 3: Now the third brother had a great many possessions, and he divided them all among his three brothers and his three sons, so that all were rich. And they all lived happily ever after, until the end of their days.
+---- Segment 4: One day, as the third brother was out hunting, he stumbled upon a beautiful maiden, weeping by the side of a brook. Intrigued by her beauty, he approached her and asked what was wrong. The maiden told him that she had been cursed by an enchantress, who had transformed her into a frog. She begged the brother to lift the curse by kissing her. Reluctantly, he agreed and kissed her. To his surprise, she transformed into a stunningly beautiful princess. Gratitude filled her eyes as she thanked him and offered to reward him with a favor. The brother, moved by her gratitude, asked for nothing but her hand in marriage. They were married on the spot, and the princess revealed that she had a magical gift: she could grant wishes to three people in her lifetime. The third brother, being generous, wished for his two brothers to be found and brought to him. The princess used her powers to locate them, and they were reunited with their brother and lived happily ever after. The end.
+----------------------------------------
+Processing file: 16_grimm_gb1826_the_crows_and_the_soldier_tt_20250710_110159_tt_gen_mistral-7b-instruct-v0.2.Q4_K_M_20250713_191246_tt_20250714_002423.txt
+----------------------------------------
+---- Segment 0: A worthy soldier had saved a good deal of  money out of his pay; for he worked hard, and  did not spend all he earned in eating and drinking, as many others do. Now he had  two comrades who were great rogues, and wanted to rob him of his money, but behaved outwardly towards him in a friendly way. "Comrade," said they to him one day, "why should we stay here shut up in this town like prisoners, when you at any rate  have earned enough to live upon for the rest of your days in peace and plenty at home by  your own fireside?" They talked so often to  him in this manner, that he at last said he  would go and try his luck with them; but they all the time thought of nothing but how they should manage to steal his money from him. They took the soldier to a wood near the town, where they pretended that there was  a treasure concealed, and while he was searching for it, they watched him carefully; but he found nothing except what was to be expected, namely, some old stones,  some roots, and some rubbish. They had been  standing by some distance, watching him; and, as they saw that he found nothing, one of them stepped forward, and said, "Comrade, this is in vain, the treasure is not here, let us go home again." But as they turned round, the soldier, who was a man of courage, drew his sword, and ran towards them; and, before they could escape, he had  seized one and had him bound hand and foot. He did the same to the other, and then he took their money from their purses, and said, "Here's an end to your roguery. I'll see that you are sent to the fortress." They were in reality two crows in disguise, and the soldier had been tricked into the wood, but he had managed to turn the tables on them.
+---- Segment 1: The soldier, filled with both triumph and relief, walked back to the town, his heart swelling with pride. He had outsmarted the crows, and proved his courage and cunning. As he approached the town gates, he couldn't help but think of the future. He had enough money saved to retire, and he could finally live out the rest of his days in peace and comfort. But as he entered the town, he was met with an unexpected sight. The town was in chaos. Soldiers were running around frantically, shouting and screaming. The sounds of gunfire and explosions filled the air. The soldier dropped his bags and ran towards the commotion, his sword at the ready. He soon discovered that the town was under attack by a band of marauding thieves, led by a notorious criminal known only as "The Viper."
+----------------------------------------
+---- Segment 1: The soldier, filled with both triumph and relief, walked back to the town, his heart swelling with pride. He had outsmarted the crows, and proved his courage and cunning. As he approached the town gates, he couldn't help but think of the future. He had enough money saved to retire, and he could finally live out the rest of his days in peace and comfort. But as he entered the town, he was met with an unexpected sight. The town was in chaos. Soldiers were running around frantically, shouting and screaming. The sounds of gunfire and explosions filled the air. The soldier dropped his bags and ran towards the commotion, his sword at the ready. He soon discovered that the town was under attack by a band of marauding thieves, led by a notorious criminal known only as "The Viper."
+---- Segment 2: The soldier joined forces with the other soldiers and they fought valiantly against the thieves. They managed to hold them off, but the cost was high. Many soldiers had been injured or killed in the battle. The soldier, despite his age and lack of rest, fought with renewed energy, determined to protect his town and his people. As the sun began to rise, the thieves were finally driven away, and the town was saved. The soldier, exhausted but triumphant, was hailed as a hero. His bravery and quick thinking had saved the day. The townspeople, grateful for his valor, showered him with praise and gifts. And as he looked around at the faces of his friends and neighbors, he realized that true wealth was not in gold or silver, but in the love and respect of those around him.
+----------------------------------------
+---- Segment 2: The soldier joined forces with the other soldiers and they fought valiantly against the thieves. They managed to hold them off, but the cost was high. Many soldiers had been injured or killed in the battle. The soldier, despite his age and lack of rest, fought with renewed energy, determined to protect his town and his people. As the sun began to rise, the thieves were finally driven away, and the town was saved. The soldier, exhausted but triumphant, was hailed as a hero. His bravery and quick thinking had saved the day. The townspeople, grateful for his valor, showered him with praise and gifts. And as he looked around at the faces of his friends and neighbors, he realized that true wealth was not in gold or silver, but in the love and respect of those around him.
+---- Segment 3: From that day on, the soldier lived out the rest of his days in peace and contentment, knowing that he had made the right decision in standing up for what was right. He became a respected member of the community, and his story was told for generations to come as an example of courage, cunning, and the power of the human spirit. And as for the crows, they were never heard from again. The end.
+----------------------------------------
+Processing file: 17_grimm_gb1853-2_the_faithful_beasts_tt_20250710_110159_tt_gen_mistral-7b-instruct-v0.2.Q4_K_M_20250713_191246_tt_20250714_002423.txt
+----------------------------------------
+---- Segment 0: There was once a Man who had not a great deal of money, but with the little he had he wandered into the wide world. Soon he came to a village where the boys were running together  screaming and laughing, and he asked them what was the matter. "Oh!" replied they, " we have got a mouse which we are  going to teach to dance: only see what a beautiful spot it is; how it will skip round !" The Man, however, pitied the poor  Mouse, and said, "Let it escape, my boys, and I will give you  money." So he gave them some coppers, and they let the poor animal loose, which ran as fast as it could into a hole close by.  After this the Man went on and came to another village, where  the boys had a Monkey, which they forced to dance and tumble, and laughed at without letting the poor thing have any rest. To  these also the Man gave money that they might release the Monkey; and by-and-by, coming to a third village, he saw the boys  making a Bear in chains dance and stand upright, and if he growled they seemed all the better pleased. This animal's liberty the Man also purchased, and the Bear, very glad to find  himself on his four feet again, tramped away. But the Man, as he travelled through the forests, began to grow  weary of his lonely life, and longed for a companion. He met a Lion, who seemed in great distress, and asked him the cause. "Ah! young stranger," replied the Lion, " you may well ask, but who would have thought it? I have been living with a foolish King, who has set his dogs upon me, and now I am at the last gasp. If you would have the kindness to give me your help, I will reward you."
+---- Segment 1: The Man, however, did not trust the Lion, and went on his way. But he met a beautiful maiden, who seemed very sad, and asked her the reason. "Alas!" said she, "my father the King has given me to the monster Typhon, and I am to be his bride to-morrow!" The Man, pitying her, asked her if she would go with him, and she consented. Together they went on, and came at last to the cavern where Typhon lay. The Man took up a large stone, and, as Typhon was about to seize the maiden, he dashed it upon the monster's head, and it was immediately crushed to pieces.
+----------------------------------------
+---- Segment 1: The Man, however, did not trust the Lion, and went on his way. But he met a beautiful maiden, who seemed very sad, and asked her the reason. "Alas!" said she, "my father the King has given me to the monster Typhon, and I am to be his bride to-morrow!" The Man, pitying her, asked her if she would go with him, and she consented. Together they went on, and came at last to the cavern where Typhon lay. The Man took up a large stone, and, as Typhon was about to seize the maiden, he dashed it upon the monster's head, and it was immediately crushed to pieces.
+---- Segment 2: The King was very angry when he heard of this deed, but the Man and his bride were protected by the gods, and they lived happily ever after.
+
+The Lion, though betrayed by the Man's lack of trust, was grateful for the encounter. He realized that his desperation and need for help had made him vulnerable, but he knew that there would always be others who might face the same plight. With newfound wisdom, he decided to dedicate himself to helping those in need.
+----------------------------------------
+---- Segment 2: The King was very angry when he heard of this deed, but the Man and his bride were protected by the gods, and they lived happily ever after.
+
+The Lion, though betrayed by the Man's lack of trust, was grateful for the encounter. He realized that his desperation and need for help had made him vulnerable, but he knew that there would always be others who might face the same plight. With newfound wisdom, he decided to dedicate himself to helping those in need.
+---- Segment 3: He began his journey to find the Man and his bride, knowing that they would be hunted by the vengeful King. Along the way, he encountered many creatures in distress, and he aided them with his strength and cunning. Word of the Lion's benevolence spread, and soon he was known throughout the land as the protector of the weak and the defender of the oppressed.
+
+The Lion's actions did not go unnoticed by the gods. They were pleased with his selflessness and determination to help others. In recognition of his deeds, they granted him the power to heal wounds and restore the health of those who sought his aid. The Lion continued his travels, spreading hope and healing wherever he went.
+
+But the King was not one to be swayed by the gods' favor. He continued his relentless pursuit of the Man and his bride, determined to claim his vengeance. The Lion, however, was not alone in his mission to protect them. He rallied the faithful beasts of the land to his cause, and together they formed an army of champions, dedicated to the defense of the innocent.
+----------------------------------------
+---- Segment 3: He began his journey to find the Man and his bride, knowing that they would be hunted by the vengeful King. Along the way, he encountered many creatures in distress, and he aided them with his strength and cunning. Word of the Lion's benevolence spread, and soon he was known throughout the land as the protector of the weak and the defender of the oppressed.
+
+The Lion's actions did not go unnoticed by the gods. They were pleased with his selflessness and determination to help others. In recognition of his deeds, they granted him the power to heal wounds and restore the health of those who sought his aid. The Lion continued his travels, spreading hope and healing wherever he went.
+
+But the King was not one to be swayed by the gods' favor. He continued his relentless pursuit of the Man and his bride, determined to claim his vengeance. The Lion, however, was not alone in his mission to protect them. He rallied the faithful beasts of the land to his cause, and together they formed an army of champions, dedicated to the defense of the innocent.
+---- Segment 4: The final battle between the King's forces and the army of the faithful beasts was long and arduous. The Lion led the charge, his roars inspiring courage and determination in those who followed him. The Man and his bride, though outnumbered, fought bravely, their love for each other giving them the strength to face the King's army.
+----------------------------------------
+---- Segment 4: The final battle between the King's forces and the army of the faithful beasts was long and arduous. The Lion led the charge, his roars inspiring courage and determination in those who followed him. The Man and his bride, though outnumbered, fought bravely, their love for each other giving them the strength to face the King's army.
+---- Segment 5: In the end, the King was defeated, and peace was restored to the land. The Man and his bride, grateful for the Lion's help, offered him a place in their kingdom. The Lion, however, declined, preferring to continue his travels and help those in need. And so, he became a legend, a symbol of hope and strength, a reminder that even in the darkest of times, there is always a light to guide the way.
+
+The Lion's legend lived on, his name passed down through the generations, a reminder that kindness, selflessness, and determination can overcome even the greatest of adversity. And the Man and his bride, though their names were lost to time, were remembered as the brave couple who dared to defy a tyrant and change their fate.
+----------------------------------------
+Processing file: 18_grimm_gb1853-2_the_sparrow_and_his_four_children_tt_20250710_110159_tt_gen_mistral-7b-instruct-v0.2.Q4_K_M_20250713_191246_tt_20250714_002423.txt
+----------------------------------------
+---- Segment 0: A sparrow had four Young Ones in a swallow's nest, but just as they were fledged some naughty boys discovered the nest and  pushed the birds out; but happily a slight breeze was blowing at the time, and bore them up. But the Old Sparrow was sorry  because her Children were gone out into the world before she had  warned them of its dangers, or taught them good manners. Now that her little ones had tasted freedom, she longed to see them once more. So she fluttered her wings and rose in the air, and  began to search for them. She looked in the nearest meadow, and then in the woods, but she did not find them there. She called them in her shrillest voice, but they made no answer.
+---- Segment 1: As she was flying over a broad field, she suddenly saw a hare sitting up in a stubble-field and munching lettuces. "Ah," said the Sparrow, "there is a dish I would like to make of you, my fine friend!" And she darted down upon him. But just as she was about to strike, she heard a faint cry: "Mamma, Mamma!" It was the voice of her eldest Child, who had been caught by a little boy and put in a cage.
+
+Filled with joy and relief, the Sparrow swooped down, plucked her Child from the cage, and bore it off to the woods, where it should be safe. She could not stay long, for there were still three others to find. She flew on, calling her Children as she went, and at last she found them all. She had been deceived by the hare, for he was harmless; but she was glad to be reunited with her little ones.
+----------------------------------------
+---- Segment 1: As she was flying over a broad field, she suddenly saw a hare sitting up in a stubble-field and munching lettuces. "Ah," said the Sparrow, "there is a dish I would like to make of you, my fine friend!" And she darted down upon him. But just as she was about to strike, she heard a faint cry: "Mamma, Mamma!" It was the voice of her eldest Child, who had been caught by a little boy and put in a cage.
+
+Filled with joy and relief, the Sparrow swooped down, plucked her Child from the cage, and bore it off to the woods, where it should be safe. She could not stay long, for there were still three others to find. She flew on, calling her Children as she went, and at last she found them all. She had been deceived by the hare, for he was harmless; but she was glad to be reunited with her little ones.
+---- Segment 2: Now the Sparrow assembled them around her, and began to teach them the ways of the world: "My little ones," she said, "you must be on your guard, for there are many dangers in it. Never trust a hare, for though he may seem harmless, he is cunning and false; but always be kind to the birds, for they will help you when you are in trouble."
+
+The four Sparrows listened attentively to their Mother's instructions, and thanked her for her love and care. They promised to be good and obedient, and to remember her advice. And when she had seen that they were safe and happy, she flew away, leaving them to their own devices.
+----------------------------------------
+---- Segment 2: Now the Sparrow assembled them around her, and began to teach them the ways of the world: "My little ones," she said, "you must be on your guard, for there are many dangers in it. Never trust a hare, for though he may seem harmless, he is cunning and false; but always be kind to the birds, for they will help you when you are in trouble."
+
+The four Sparrows listened attentively to their Mother's instructions, and thanked her for her love and care. They promised to be good and obedient, and to remember her advice. And when she had seen that they were safe and happy, she flew away, leaving them to their own devices.
+---- Segment 3: But the Sparrow's work was not yet done, for she had many more children to bring up in the wide world. And so she continued her journeys, teaching and caring for them, until she had completed her task. And when her time came to leave the world, she looked back on her long and busy life, content and satisfied.
+----------------------------------------
+---- Segment 3: But the Sparrow's work was not yet done, for she had many more children to bring up in the wide world. And so she continued her journeys, teaching and caring for them, until she had completed her task. And when her time came to leave the world, she looked back on her long and busy life, content and satisfied.
+---- Segment 4: As the Sparrow continued her search for her young ones, she flew over a bustling marketplace. Amidst the cacophony of voices and the clatter of carts, she heard a faint cry for help. She quickly discerned that it was the voice of her second child. With a surge of relief and determination, she swooped down and found the hapless bird trapped in a merchant's net. The merchant, a greedy man, had set the net to catch birds for his stewpot.
+
+The Sparrow was incensed by the merchant's cruelty and quickly set her child free. She then turned her beady eye on the merchant and, with a fierce determination, attacked him. The merchant was taken aback by the audacity of the small bird and was no match for her agility and tenacity. The other market-goers were amazed and impressed by the Sparrow's bravery, and she soon had the support of a small mob. The merchant was forced to release all the birds he had caught and was left with a severe loss.
+----------------------------------------
+---- Segment 4: As the Sparrow continued her search for her young ones, she flew over a bustling marketplace. Amidst the cacophony of voices and the clatter of carts, she heard a faint cry for help. She quickly discerned that it was the voice of her second child. With a surge of relief and determination, she swooped down and found the hapless bird trapped in a merchant's net. The merchant, a greedy man, had set the net to catch birds for his stewpot.
+
+The Sparrow was incensed by the merchant's cruelty and quickly set her child free. She then turned her beady eye on the merchant and, with a fierce determination, attacked him. The merchant was taken aback by the audacity of the small bird and was no match for her agility and tenacity. The other market-goers were amazed and impressed by the Sparrow's bravery, and she soon had the support of a small mob. The merchant was forced to release all the birds he had caught and was left with a severe loss.
+---- Segment 5: The Sparrow, having saved her child and avenged her kind, continued her search for her remaining offspring. She flew to the outskirts of the town, where she found her third child, perched on a tree branch, looking lost and confused. The child had been separated from its siblings during their eviction from the nest and had wandered aimlessly ever since.
+
+The Sparrow was overjoyed to be reunited with her child and comforted it with soothing words and gentle caresses. She then took the child under her wing and taught it the ways of the world, imparting her wisdom and experience. The child listened attentively and promised to remember its mother's lessons.
+----------------------------------------
+---- Segment 5: The Sparrow, having saved her child and avenged her kind, continued her search for her remaining offspring. She flew to the outskirts of the town, where she found her third child, perched on a tree branch, looking lost and confused. The child had been separated from its siblings during their eviction from the nest and had wandered aimlessly ever since.
+
+The Sparrow was overjoyed to be reunited with her child and comforted it with soothing words and gentle caresses. She then took the child under her wing and taught it the ways of the world, imparting her wisdom and experience. The child listened attentively and promised to remember its mother's lessons.
+---- Segment 6: With her third child safely reunited, the Sparrow turned her attention to her fourth and final offspring. She flew to the edge of the forest, where she found her youngest child, huddled in fear amongst the undergrowth. The child had been taken in by a group of mischievous squirrels, who had playfully pushed it out of its nest and left it for dead.
+
+The Sparrow was filled with anger and disbelief at the squirrels' cruelty, but she knew that vengeance would not bring her child back. Instead, she focused her energy on rescuing her young one and teaching it the ways of the world, just as she had done with its siblings. The child, grateful for its mother's love and protection, promised to be good and obedient.
+----------------------------------------
+---- Segment 6: With her third child safely reunited, the Sparrow turned her attention to her fourth and final offspring. She flew to the edge of the forest, where she found her youngest child, huddled in fear amongst the undergrowth. The child had been taken in by a group of mischievous squirrels, who had playfully pushed it out of its nest and left it for dead.
+
+The Sparrow was filled with anger and disbelief at the squirrels' cruelty, but she knew that vengeance would not bring her child back. Instead, she focused her energy on rescuing her young one and teaching it the ways of the world, just as she had done with its siblings. The child, grateful for its mother's love and protection, promised to be good and obedient.
+---- Segment 7: Having completed her mission to reunite with all her children and impart her wisdom, the Sparrow flew off into the sunset, content in the knowledge that she had fulfilled her role as a mother. Her legacy lived on through her offspring, who carried on her teachings and passed them down to future generations. And so, the Sparrow's story became a tale of love, courage, and the indomitable spirit of motherhood.
+----------------------------------------
+Processing file: 19_grimm_gb1853-2_the_stolen_farthings_tt_20250710_110159_tt_gen_mistral-7b-instruct-v0.2.Q4_K_M_20250713_191246_tt_20250714_002424.txt
+----------------------------------------
+---- Segment 0: Once upon a time a Father sat at table with his wife and children, and with them was a good Friend who had come on a visit.  While they sat eating, it struck twelve, and then the Friend saw  the door open, and a Child, pale as death, dressed in snow-white  garments, come in. It did not look round or speak, but went straight into the next room. Soon it returned and went as silently out at the door again. The second and the third day it happened the same, and then the Friend asked the Father to whom the Child  belonged which entered the house every day at noontime. "I have not seen it, nor do I know to whom it belongs," said the Father. So the following day when the Child came the Friend  pointed it out to the Father, but he could not see it, nor the Mother either, nor her children. Then the Friend got up, and, going to the chamber door, opened it a little and peeped in. There he saw the Child sitting on the ground, digging and picking industriously between the crevices of the boards ; but as soon as it perceived the stranger it disappeared. The Friend now told the Father what he had seen, and described the child exactly,  whereupon the Mother recognised his description, and said, "Ah! that is my dear Child who died four weeks ago." Then they broke  up the boards of the room and found beneath them two Farthings  which the Child had once received from his Mother to give to a  poor man, but he had thought to himself, "One can buy biscuits with these," and so he had kept the Farthings and dropped them between the boards. And on that account he had no rest in his  grave, and every mid-day he was compelled to come and seek for  the Farthings. The Father, deeply moved by the Friend's revelation, decided to find a way to ease the troubled spirit of his child. He thought long and hard about what he could do, and eventually came up with a plan. The following day, he gathered all his children together and called them to the room where the spirit of their dead brother had appeared.
+---- Segment 1: "Children," he began, "there is something I need to tell you. Your dear brother, whom we have lost, has been coming to visit us every day at noon, seeking for two farthings that he had once kept for himself. We now know that he is troubled in the afterlife because of this, and it is our duty as his family to set him free."
+----------------------------------------
+---- Segment 1: "Children," he began, "there is something I need to tell you. Your dear brother, whom we have lost, has been coming to visit us every day at noon, seeking for two farthings that he had once kept for himself. We now know that he is troubled in the afterlife because of this, and it is our duty as his family to set him free."
+---- Segment 2: The children looked at each other in shock, tears welling up in their eyes. Their father continued, "I want you all to bring me all the farthings you have. We will gather them together and bury them in the ground, in the very spot where your brother once dug and searched."
+
+The children quickly gathered all their savings, and together with their father, they dug a hole in the ground and buried the farthings. As they did so, they prayed for their brother's soul to find peace.
+----------------------------------------
+---- Segment 2: The children looked at each other in shock, tears welling up in their eyes. Their father continued, "I want you all to bring me all the farthings you have. We will gather them together and bury them in the ground, in the very spot where your brother once dug and searched."
+
+The children quickly gathered all their savings, and together with their father, they dug a hole in the ground and buried the farthings. As they did so, they prayed for their brother's soul to find peace.
+---- Segment 3: As they finished the burial, the spirit of their brother appeared once more, looking radiant and at peace. "Thank you, Father, and thank you, Mother, and thank you, my dear siblings," he said. "I can finally rest now, knowing that my family has set me free from my earthly burden."
+
+The family rejoiced at the sight of their beloved brother, who had finally found peace. From that day on, they lived in harmony, cherishing the memories of their dear brother who was now at peace in the afterlife.
+----------------------------------------
+Processing file: 20_grimm_gb1853-2_three_little_tales_about_toads_tt_20250710_110159_tt_gen_mistral-7b-instruct-v0.2.Q4_K_M_20250713_191246_tt_20250714_002424.txt
+----------------------------------------
+---- Segment 0: I.  
+Once upon a time there was a little Girl whose mother gave her every day at noon a little basin of milk and bread, which she used to eat, sitting outside the house in the court. Once when she began to eat there came a little Toad out of a crack in the  wall, which put its head into the milk, and drank some. Child was pleased with this; and the next day, and every day when she sat there with her basin, and the Toad did not make its appearance, she used to call it thus:-
+---- Segment 1: "Toadie, Toadie, quickly come;
+  
+Hither come, my pet;
+  
+And you shall have a little crumb
+  
+And milk before you set!" II.
+But one fine morning, the little Toad did not come. She waited a long time, but still it did not come. This made her uneasy. At length she called out to it with a very displeased tone:-
+
+  "Toadie, Toadie, where are you?
+  
+Why have you not come to me?
+
+I have milk and bread, I have,
+
+And you have not come to me!"
+
+III.
+No answer came, and she began to cry, and to think that perhaps the Toad had gone away. When the sun had risen high, she went to the well to draw water, and there, in a corner, she saw the little Toad sitting quite still, with its mouth open, and looking very pale.
+----------------------------------------
+---- Segment 1: "Toadie, Toadie, quickly come;
+  
+Hither come, my pet;
+  
+And you shall have a little crumb
+  
+And milk before you set!" II.
+But one fine morning, the little Toad did not come. She waited a long time, but still it did not come. This made her uneasy. At length she called out to it with a very displeased tone:-
+
+  "Toadie, Toadie, where are you?
+  
+Why have you not come to me?
+
+I have milk and bread, I have,
+
+And you have not come to me!"
+
+III.
+No answer came, and she began to cry, and to think that perhaps the Toad had gone away. When the sun had risen high, she went to the well to draw water, and there, in a corner, she saw the little Toad sitting quite still, with its mouth open, and looking very pale.
+---- Segment 2: "Toadie, Toadie, are you ill?
+
+Why do you sit there so pale?
+
+I will fetch you some water,
+
+And a little piece of bread!"
+
+IV.
+But the Toad did not move; it could not swallow its little tongue, which was swollen, and it could not speak. It looked so ill, that the little girl took it up in her hand, and carried it gently into the house.
+
+V.
+She put it into a little basket, and covered it over with a napkin. She sat by it, and took such good care of it, that in a few days it was quite well again. And then it hopped away, and never came back any more.
+
+VI.
+But the little girl was very fond of it, and thought of it often. She used to tell all her little brothers and sisters about the little Toad, and how she had taken care of it, and how it had hopped away. And this is the end of the first tale.
+----------------------------------------
+---- Segment 2: "Toadie, Toadie, are you ill?
+
+Why do you sit there so pale?
+
+I will fetch you some water,
+
+And a little piece of bread!"
+
+IV.
+But the Toad did not move; it could not swallow its little tongue, which was swollen, and it could not speak. It looked so ill, that the little girl took it up in her hand, and carried it gently into the house.
+
+V.
+She put it into a little basket, and covered it over with a napkin. She sat by it, and took such good care of it, that in a few days it was quite well again. And then it hopped away, and never came back any more.
+
+VI.
+But the little girl was very fond of it, and thought of it often. She used to tell all her little brothers and sisters about the little Toad, and how she had taken care of it, and how it had hopped away. And this is the end of the first tale.
+---- Segment 3: In the following days, the little girl missed her beloved companion dearly. She would sit in the courtyard every day at noon, calling out for Toadie, offering him milk and bread. But Toadie did not come. The girl started to worry, thinking that perhaps something had happened to him. She waited longer than usual, but still there was no sign of her little friend.
+
+One morning, as she went to the well to draw water, she saw Toadie lying motionless in a corner. His mouth was open, and his tongue was swollen, making it difficult for him to speak. The girl was alarmed and quickly took him in her hands, bringing him into the house. She cared for him tenderly, making sure he had water and bread, just as she used to do when they would meet in the courtyard.
+
+In a few days, Toadie was well again. But he didn't hop back to the courtyard as she had hoped. The girl was sad, but she couldn't help feeling grateful for having been able to save her friend's life. She often thought of Toadie and told her siblings stories about their little friendship. And so, the first tale came to an end.
+----------------------------------------
+---- Segment 3: In the following days, the little girl missed her beloved companion dearly. She would sit in the courtyard every day at noon, calling out for Toadie, offering him milk and bread. But Toadie did not come. The girl started to worry, thinking that perhaps something had happened to him. She waited longer than usual, but still there was no sign of her little friend.
+
+One morning, as she went to the well to draw water, she saw Toadie lying motionless in a corner. His mouth was open, and his tongue was swollen, making it difficult for him to speak. The girl was alarmed and quickly took him in her hands, bringing him into the house. She cared for him tenderly, making sure he had water and bread, just as she used to do when they would meet in the courtyard.
+
+In a few days, Toadie was well again. But he didn't hop back to the courtyard as she had hoped. The girl was sad, but she couldn't help feeling grateful for having been able to save her friend's life. She often thought of Toadie and told her siblings stories about their little friendship. And so, the first tale came to an end.
+---- Segment 4: However, the girl didn't forget about her Toadie. She continued to sit in the courtyard every day at noon, offering him milk and bread, just in case he would appear. And one day, as she was sitting there, she heard a familiar croaking sound. She looked around and saw Toadie hopping towards her, his little tongue flicking out in excitement. The girl was overjoyed and welcomed her beloved companion back with open arms. And that's how the second tale began.
+----------------------------------------
+End processing: 20 files saved to the tt_start folder.

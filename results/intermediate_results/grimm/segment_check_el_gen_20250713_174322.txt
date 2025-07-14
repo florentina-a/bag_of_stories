@@ -1,0 +1,103 @@
+Segment check: Generated stories by mistral-7b-instruct-v0.2.Q4_K_M from an opening segment: segmentation method: equal-length
+----------------------------------------
+Processing file: 01_grimm_pg19068_rumpelstiltskin.txt
+----------------------------------------
+---- Opening fragment: There was once a miller who was poor, but he had one beautiful daughter. It happened one day that he came to speak with the king, and, to give himself consequence, he told him that he had a daughter who could spin gold out of straw. The king said to the miller, "That is an art that pleases me well; if thy daughter is as clever as you say, bring her to my castle to-morrow, that I may put her to the proof." When the girl was brought to him, he led her into
+---- Token count original story: 1124. Token count generated story: 547.
+----------------------------------------
+Processing file: 02_grimm_pg19068_rapunzel.txt
+----------------------------------------
+---- Opening fragment: There once lived a man and his wife, who had long wished for a child, but in vain. Now there was at the back of their house a little window which overlooked a beautiful garden full of the finest vegetables and flowers; but there was a high wall all round it, and no one ventured into it, for it belonged to a witch of great might, and of whom all the world was afraid. One day that the wife was standing at the window, and looking into the garden, she saw a bed filled with the finest rampion; and it
+---- Token count original story: 1393. Token count generated story: 799.
+----------------------------------------
+Processing file: 03_grimm_pg19068_aschenputtel.txt
+----------------------------------------
+---- Opening fragment: There was once a rich man whose wife lay sick, and when she felt her end drawing near she called to her only daughter to come near her bed, and said, "Dear child, be pious and good, and God will always take care of you, and I will look down upon you from heaven, and will be with you." And then she closed her eyes and expired. The maiden went every day to her mother's grave and wept, and was always pious and good. When the winter came the snow covered the grave with a white covering, and when the
+---- Token count original story: 2692. Token count generated story: 782.
+----------------------------------------
+Processing file: 04_grimm_pg19068_little_red-cap.txt
+----------------------------------------
+---- Opening fragment: There was once a sweet little maid, much beloved by everybody, but most of all by her grandmother, who never knew how to make enough of her. Once she sent her a little cap of red velvet, and as it was very becoming to her, and she never wore anything else, people called her Little Red-cap. One day her mother said to her, "Come, Little Red-cap, here are some cakes and a flask of wine for you to take to grandmother; she is weak and ill, and they will do her good. Make haste and start
+---- Token count original story: 1332. Token count generated story: 626.
+----------------------------------------
+Processing file: 05_grimm_pg19068_the_sleeping_beauty.txt
+----------------------------------------
+---- Opening fragment: In times past there lived a king and queen, who said to each other every day of their lives, "Would that we had a child!" and yet they had none. But it happened once that when the queen was bathing, there came a frog out of the water, and he squatted on the ground, and said to her, "Thy wish shall be fulfilled; before a year has gone by, thou shalt bring a daughter into the world." And as the frog foretold, so it happened; and the queen bore a daughter so beautiful that the king could not contain himself
+---- Token count original story: 1297. Token count generated story: 611.
+----------------------------------------
+Processing file: 06_grimm_pg19068_hansel_and_grethel.txt
+----------------------------------------
+---- Opening fragment: Near a great forest there lived a poor woodcutter and his wife, and his two children; the boy's name was Hansel and the girl's Grethel. They had very little to bite or to sup, and once, when there was great dearth in the land, the man could not even gain the daily bread. As he lay in bed one night thinking of this, and turning and tossing, he sighed heavily, and said to his wife, "What will become of us? we cannot even feed our children; there is nothing left for ourselves." "I will tell you what, husband,"
+---- Token count original story: 2842. Token count generated story: 617.
+----------------------------------------
+Processing file: 07_grimm_pg19068_snow-white.txt
+----------------------------------------
+---- Opening fragment: It was the middle of winter, and the snow-flakes were falling like feathers from the sky, and a queen sat at her window working, and her embroidery-frame was of ebony. And as she worked, gazing at times out on the snow, she pricked her finger, and there fell from it three drops of blood on the snow. And when she saw how bright and red it looked, she said to herself, "Oh that I had a child as white as snow, as red as blood, and as black as the wood of the embroidery frame!" Not very long after
+---- Token count original story: 3043. Token count generated story: 809.
+----------------------------------------
+Processing file: 08_grimm_pg19068_the_golden_goose.txt
+----------------------------------------
+---- Opening fragment: There was a man who had three sons, the youngest of whom was called the Simpleton, and was despised, laughed at, and neglected, on every occasion. It happened one day that the eldest son wished to go into the forest to cut wood, and before he went his mother gave him a delicious pancake and a flask of wine, that he might not suffer from hunger or thirst. When he came into the forest a little old grey man met him, who wished him good day, and said, "Give me a bit of cake out of
+---- Token count original story: 1623. Token count generated story: 907.
+----------------------------------------
+Processing file: 09_grimm_pg19068_the_wolf_and_the_seven_kids.txt
+----------------------------------------
+---- Opening fragment: There was once an old goat who had seven little ones, and was as fond of them as ever mother was of her children. One day she had to go into the wood to fetch food for them, so she called them all round her. "Dear children," said she, "I am going out into the wood; and while I am gone, be on your guard against the wolf, for if he were once to get inside he would eat you up, skin, bones, and all. The wretch often disguises himself, but he may always be
+---- Token count original story: 1043. Token count generated story: 1005.
+----------------------------------------
+Processing file: 10_grimm_pg19068_the_frog_prince.txt
+----------------------------------------
+---- Opening fragment: In the old times, when it was still of some use to wish for the thing one wanted, there lived a King whose daughters were all handsome, but the youngest was so beautiful that the sun himself, who has seen so much, wondered each time he shone over her because of her beauty. Near the royal castle there was a great dark wood, and in the wood under an old linden-tree was a well; and when the day was hot, the King's daughter used to go forth into the wood and sit by the brink
+---- Token count original story: 1412. Token count generated story: 1025.
+----------------------------------------
+Processing file: 11_grimm_gb1823_jorinda_and_jorindel.txt
+----------------------------------------
+---- Opening fragment: There was once an old castle that stood in the middle of a large thick wood, and in the castle lived an old fairy. All the day long she flew about in the form of an owl, or crept about the country like a cat; but at night she always became an old woman again. When any youth came within a hundred paces of her castle, he became quite fixed, and could not move a step till she came and set him free: but when any pretty maiden came within that distance, she was changed into
+---- Token count original story: 1053. Token count generated story: 444.
+----------------------------------------
+Processing file: 12_grimm_gb1826_the_nose.txt
+----------------------------------------
+---- Opening fragment: Did you ever hear the story of the three poor soldiers, who, after having fought hard in the wars, set out on their road home begging their way as they went? They had journeyed on a long way, sick at heart with their bad luck at thus being turned loose on the world in their old days, when one evening they reached a deep gloomy wood through which they must pass; night came fast upon them, and they found that they must, however unwillingly, sleep in the wood; so to make all as safe as they could, it was agreed
+---- Token count original story: 2482. Token count generated story: 507.
+----------------------------------------
+Processing file: 13_grimm_ia1853-1_the_little_brother_and_sister.txt
+----------------------------------------
+---- Opening fragment: There was once a little Brother who took his Sister by the hand, and said, "Since our own dear mother's death we have not had one happy hour; our stepmother beats us every day, and, if we come near her, kicks us away with her foot. Our food is the hard crusts of bread which are left, and even the dog under the table fares better than we, for he often gets a nice morsel. Come, let -us wander forth into the wide world." So the whole day long they travelled over meadows, fields, and stones, and when it
+---- Token count original story: 2366. Token count generated story: 422.
+----------------------------------------
+Processing file: 14_grimm_ia1853-1_the_gold_children.txt
+----------------------------------------
+---- Opening fragment: Once upon a time there was a poor Man and his Wife, who had. nothing in the world but their hut, and they lived from hand to mouth by catching fish. But once it happened that the man, sitting by the water's edge, threw in his net and drew out a golden Fish. And while he was looking at the fish with great wonderment, it exclaimed, "Do you hear, fisherman? throw me back into the water, and I will change your hui into a fine castle." But the Fisherman replied, "What use is a castle to me
+---- Token count original story: 1923. Token count generated story: 706.
+----------------------------------------
+Processing file: 15_grimm_ia1853-1_the_knapsack_the_hat_and_the_horn.txt
+----------------------------------------
+---- Opening fragment: Once upon a time there were three brothers who every day sank deeper and deeper in poverty, until at last their need was so great that they were in danger of death from starvation, having nothing to bite or break. So they said to one another, "We cannot go on in this way; we had better go forth into the wide world and seek our fortunes." With these words they got up and set out, and travelled many a long mile over green fields and meadows without happening with any luck. One day they arrived in a large
+---- Token count original story: 2334. Token count generated story: 1441.
+----------------------------------------
+Processing file: 16_grimm_gb1826_the_crows_and_the_soldier.txt
+----------------------------------------
+---- Opening fragment: A worthy soldier had saved a good deal of money out of his pay; for he worked hard, and did not spend all he earned in eating and drinking, as many others do. Now he had two comrades who were great rogues, and wanted to rob him of his money, but behaved outwardly towards him in a friendly way. "Comrade," said they to him one day, "why should we stay here shut up in this town like prisoners, when you at any rate have earned enough to live upon for the rest of your days in peace and
+---- Token count original story: 1274. Token count generated story: 930.
+----------------------------------------
+Processing file: 17_grimm_gb1853-2_the_faithful_beasts.txt
+----------------------------------------
+---- Opening fragment: There was once a Man who had not a great deal of money, but with the little he had he wandered into the wide world. Soon he came to a village where the boys were running together screaming and laughing, and he asked them what was the matter. "Oh!" replied they, " we have got a mouse which we are going to teach to dance: only see what a beautiful spot it is; how it will skip round !" The Man, however, pitied the poor Mouse, and said, "Let it escape, my boys, and I
+---- Token count original story: 1515. Token count generated story: 784.
+----------------------------------------
+Processing file: 18_grimm_gb1853-2_the_sparrow_and_his_four_children.txt
+----------------------------------------
+---- Opening fragment: A sparrow had four Young Ones in a swallow's nest, but just as they were fledged some naughty boys discovered the nest and pushed the birds out; but happily a slight breeze was blowing at the time, and bore them up. But the Old Sparrow was sorry because her Children were gone out into the world before she had warned them of its dangers, or taught them good manners. Now, in the spring time a great many sparrows chanced to meet together in a field of corn, and among them the old Sparrow happily met with his
+---- Token count original story: 964. Token count generated story: 564.
+----------------------------------------
+Processing file: 19_grimm_gb1853-2_the_stolen_farthings.txt
+----------------------------------------
+---- Opening fragment: Once upon a time a Father sat at table with his wife and children, and with them was a good Friend who had come on a visit. While they sat eating, it struck twelve, and then the Friend saw the door open, and a Child, pale as death, dressed in snow-white garments, come in. It did not look round or speak, but went straight into the next room. Soon it returned and went as silently out at the door again. The second and the
+---- Token count original story: 334. Token count generated story: 783.
+----------------------------------------
+Processing file: 20_grimm_gb1853-2_three_little_tales_about_toads.txt
+----------------------------------------
+---- Opening fragment: I. Once upon a time there was a little Girl whose mother gave her every day at noon a little basin of milk and bread, which she used to eat, sitting outside the house in the court. Once when she began to eat there came a little Toad out of a crack in the wall, which put its head into the milk, and drank some. Child was pleased with this; and the next day, and every day when she sat there with her basin, and
+---- Token count original story: 509. Token count generated story: 666.
+----------------------------------------
+End processing: 20 files saved to the el_start folder.
