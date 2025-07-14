@@ -49,5 +49,5 @@ To be run in the Terminal for setting up the virtual environment in the root fol
 3. Cosine segment similarity (SGS).
 
 ## Results
-Results are saved by analysis method. Optionally, intermediate results may also be saved in a dedicated folder.
+Results are saved by type of story (human, AI-generated with equal-length and TextTiling start fragment) and analysis method. Optionally, intermediate results may also be saved in a dedicated folder.
 
