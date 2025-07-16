@@ -47,7 +47,8 @@ To be run in the Terminal for setting up the virtual environment in the root fol
 1. Jensen-Shannon Divergence (JSD).
 2. Kullback-Leibler Divergence (KLD).
 3. Cosine segment similarity (SGS).
+4. Correlation (Pearson).
 
 ## Results
-Results are saved by type of story (human, AI-generated with equal-length and TextTiling start fragment) and analysis method. Optionally, intermediate results may also be saved in a dedicated folder.
+Results are saved by type of story (human, AI-generated with equal-length and TextTiling start fragment) and analysis method. Optionally, intermediate results may be saved in a dedicated folder. General summaries and correlations are also provided.
 
