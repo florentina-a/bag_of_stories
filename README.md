@@ -22,7 +22,19 @@ To be run in the Terminal for setting up the virtual environment in the root fol
     ```
     pip install -r requirements.txt
     ```
-
+2.1. If using the requirements file doesn't work, manually install the following libraries:
+    ```
+    pip install --upgrade llama-cpp-python pandas
+    pip install pathlib
+    pip install nltk
+    pip install sentence-transformers
+    pip install seaborn
+    pip install ipykernel
+    ```
+2.2. Optionally, create a requirements.txt file for the current installations:
+    ```
+    pip freeze > requirements.txt
+    ```
 3. Add the environment as a Jupyter kernel:
     ```
     python -m ipykernel install --user --name=bag_of_stories_env
