@@ -67,7 +67,7 @@ To be run in the Terminal for setting up the virtual environment in the root fol
 ## Results
 Results are saved by type of story (human, AI-generated with equal-length and TextTiling start fragment) and analysis method. Optionally, intermediate results may also be saved in a dedicated folder.
 
-5. Citation
+## Citation
 Armaselu, Florentina. Palma, Cosimo. (Forthcoming). “Surprisal and Predictability in Grimm’s and AI-Generated Tales: A Study in Computational Narrative Aesthetics.” Proceedings of the 9th International Workshop on Computational Models of Narrative. Madrid, Spain, June 8-10, 2026. https://sites.google.com/ucm.es/cmn26.
 
 
